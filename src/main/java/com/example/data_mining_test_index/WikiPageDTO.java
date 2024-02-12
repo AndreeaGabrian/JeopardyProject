@@ -7,7 +7,7 @@ public class WikiPageDTO {
 
     public WikiPageDTO(String title, String content, String category) {
         this.title = title;
-        this.content = category;
+        this.content = content;
         this.category = category;
     }
 }
