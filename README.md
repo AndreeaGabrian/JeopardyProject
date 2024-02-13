@@ -22,6 +22,7 @@ and the path to your **solrconfig.xml** and **schema.xml** files.
 
 ## 2. Importing data into core
 
+(TO mention: the documents or the json entries related to the wikipedia data were preprocessed before this step into files with .json extension)<br>
 After the core is done creating, we need to import all the wikipedia pages into to the solr for indexing. 
 One document in the solr index looks like this: <br>
 **{title: <wiki_page_title>, category: <wiki_page_categorie>, content: <content_of_wikipages>}**
