@@ -23,7 +23,8 @@ public class DataMiningTestIndexApplication {
     public static void main(String[] args) {
         try {
             // Path to the Lucene index directory
-            String indexDir = "C:/Users/gabri/Documents/FACULTATE/MASTER/AN 1 SEM 1/index/index";
+            //String indexDir = "C:/Users/gabri/Documents/FACULTATE/MASTER/AN 1 SEM 1/index/index";
+            String indexDir = "src/main/resources/index";
             // Open the index directory
             Directory directory = FSDirectory.open(Paths.get(indexDir));
             // Create an index reader
@@ -32,7 +33,7 @@ public class DataMiningTestIndexApplication {
             IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 
             // Instantiate the custom analyzer
-            Analyzer analyzer = new QuerySpecialAnalyzer(); // the analyzer defined by us (lowering, tokenizer, remove stop words, stemming)
+            Analyzer analyzer = new CustomSpecialAnalyzer(); // the analyzer defined by us (lowering, tokenizer, remove stop words, stemming)
 
             // Specify the query parser with the custom analyzer
             QueryParser queryParser = new QueryParser("content", analyzer);
