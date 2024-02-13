@@ -24,5 +24,17 @@ and the path to your **solrconfig.xml** and **schema.xml** files.
 
 After the core is done creating, we need to import all the wikipedia pages into to the solr for indexing. 
 One document in the solr index looks like this: <br>
-**{title: <wiki_page_title>,category: <wiki_page_categorie>,content: <content_of_wikipages>}**
+**{title: <wiki_page_title>, category: <wiki_page_categorie>, content: <content_of_wikipages>}**
 <br>
+
+We created a run.sh script that will insert all the documents related to the wikipedia pages into the solr:
+<br>
+**run.sh** 
+<br>
+for f in ./*.json; do
+    curl 'http://localhost:8983/solr/<your_core_name>/update?commit=true' --data-binary "@$f" -H 'Content-type:application/json'
+done
+
+
+<br>
+
