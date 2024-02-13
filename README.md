@@ -1,8 +1,8 @@
 # JeopardyProject
 
 For creating an index of all wikipedia pages using SOLR we had to:
-	\n 1. Create a core
-	\n 2. Import data into the core (this is the moment where indexing happens)
+	<br> 1. Create a core
+	<br> 2. Import data into the core (this is the moment where indexing happens)
 After the above steps we are given an "index" folder where all the data is stored.
 
 ## 1. Creating a core
