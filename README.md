@@ -32,7 +32,9 @@ We created a run.sh script that will insert all the documents related to the wik
 **run.sh** 
 <br>
 for f in ./*.json; do
+<br>
     curl 'http://localhost:8983/solr/<your_core_name>/update?commit=true' --data-binary "@$f" -H 'Content-type:application/json'
+    <br>
 done
 
 
