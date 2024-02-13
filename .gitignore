@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### paths to index and json files for indexing ###
+src/main/resources/pages_final
+src/main/resources/index
