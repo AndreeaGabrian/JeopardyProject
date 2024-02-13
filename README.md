@@ -18,3 +18,18 @@ After everything is prepared you go to the solr admin interface and select **Cor
 <br> You will need to point the exact path of the files required for the creation of the solr core.
 Meaning you need the path four you **<your_core_name>** folder, the path to **<your_core_name>/data** folder
 and the path to your **solrconfig.xml** and **schema.xml** files.
+
+
+## 2. Importing data into core
+
+After the core is done creating, we need to import all the wikipedia pages into to the solr for indexing. 
+One document in the solr index looks like this: <br>
+**
+{
+title: <wiki_page_title>,
+category: <wiki_page_categorie>,
+content: <content_of_wikipages>
+}
+
+**
+<br>
