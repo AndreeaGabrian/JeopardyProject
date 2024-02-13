@@ -13,7 +13,7 @@ In the **data/<your_core_name>** folder you usually have to create a **conf** an
 <br>
 In the **conf** folder you will add the most important files of a solr core: **solrconfig.xml** and **schema.xml**.
 <br>
-After everything is prepared you go to the solr admin interface and select **Core admin -> Add Core**. A popul will appear: ![image](https://github.com/AndreeaGabrian/JeopardyProject/assets/78824410/cb5315ff-d6a1-4c4a-a0dd-5c98a743c425)
+After everything is prepared you go to the solr admin interface and select **Core admin -> Add Core**. A popup will appear: ![image](https://github.com/AndreeaGabrian/JeopardyProject/assets/78824410/cb5315ff-d6a1-4c4a-a0dd-5c98a743c425)
 
 <br> You will need to point the exact path of the files required for the creation of the solr core.
 Meaning you need the path four you **<your_core_name>** folder, the path to **<your_core_name>/data** folder
