@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
+
+
 public class Utils {
     public static String removeSpecialCharacters(String str) {
         // Define a regular expression pattern to match special characters
@@ -22,9 +24,11 @@ public class Utils {
             while ((row = reader.readLine()) != null) {
                 String category = row.trim();
                 category = removeSpecialCharacters(category);
+                //category = TokenizerLematizator.process_text(category);
                 row = reader.readLine();
                 String clueText = row.trim();
                 clueText = removeSpecialCharacters(clueText);
+                //clueText = TokenizerLematizator.process_text(clueText);
                 row = reader.readLine();
                 String correctAnswer = row.trim();
                 reader.readLine();
