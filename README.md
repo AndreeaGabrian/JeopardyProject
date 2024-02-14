@@ -63,3 +63,12 @@ Detailed description about how SOLR creates it's index:
 6. Commit and Refresh: Solr periodically commits the changes to the index to make them durable. This involves flushing in-memory changes to disk and updating metadata to reflect the latest state of the index. Additionally, Solr supports real-time indexing, where documents are immediately available for search without the need for a commit operation.
 <br>
 
+
+2. Creating the core( we used SOLR 8 to create the index and the core) https://solr.apache.org/guide/8_0/solr-cores-and-solr-xml.html <br>
+
+3. Uploading data with index handlers: https://solr.apache.org/guide/8_8/uploading-data-with-index-handlers.html
+
+   <br>
+
+
+
