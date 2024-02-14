@@ -9,8 +9,10 @@ import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
+// import org.apache.commons.text.similarity.LevenShteinDistance;
 
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.file.Paths;
 import java.util.List;
 
@@ -22,7 +24,8 @@ public class DataMiningTestIndexApplication {
     public static void main(String[] args) {
         try {
             // Path to the Lucene index directory
-            String indexDir = "C:/Users/gabri/Documents/FACULTATE/MASTER/AN 1 SEM 1/index/index"; //stemming
+            String indexDir = "JeopardyProject/index/stemming"; //stemming
+            // String indexDir = "JeopardyProject/index/lemming"; //lemming
             //String indexDir = "src/main/resources/index"; //lemming
             // Open the index directory
             Directory directory = FSDirectory.open(Paths.get(indexDir));
@@ -40,10 +43,18 @@ public class DataMiningTestIndexApplication {
             QueryParser queryParser2 = new QueryParser("category", analyzer);
 
 
+            // Creating two files for writing the saved results and for analysis
+            PrintWriter results = new PrintWriter("JeopardyProject/results/results.txt", "UTF-8");
+            PrintWriter performance = new PrintWriter("JeopardyProject/results/performance.txt", "UTF-8");
+
+
             //Read the questions
-            List<QuestionDTO> questionsList = readQuestions("src/main/java/com/example/data_mining_test_index/questions.txt");
-            System.out.println("Number of questions: " + questionsList.size());
-            int correct = 0;
+            List<QuestionDTO> questionsList = readQuestions("JeopardyProject/src/main/java/com/example/data_mining_test_index/questions.txt");
+            // System.out.println("Number of questions: " + questionsList.size());
+            results.println("Number of questions: " + questionsList.size() + "\n");
+            int correct_1 = 0;
+            int correct_3 = 0;
+            int correct_5 = 0;
             for (QuestionDTO question : questionsList){
                 // Specify the search query
                 //String queryStr = TokenizerLematizator.process_text(question.category) + " " + TokenizerLematizator.process_text(question.textClue);
@@ -60,9 +71,12 @@ public class DataMiningTestIndexApplication {
 
                 // Perform the search
                 TopDocs topDocs = indexSearcher.search(booleanQuery, 10); // Search for the top 10 documents
-                System.out.println("Clue: " + question.textClue);
-                System.out.println("Category: " + question.category + " | Correct answer: " + question.correctAnswer);
-                System.out.println("Total Results: " + topDocs.totalHits);
+                results.println("Clue: " + question.textClue);
+                results.println("Category: " + question.category + " | Correct answer: " + question.correctAnswer);
+                results.println("Total Results: " + topDocs.totalHits);
+                // System.out.println("Clue: " + question.textClue);
+                // System.out.println("Category: " + question.category + " | Correct answer: " + question.correctAnswer);
+                // System.out.println("Total Results: " + topDocs.totalHits);
                 int counter = 0;
 
                 for (ScoreDoc scoreDoc : topDocs.scoreDocs) {
@@ -70,21 +84,62 @@ public class DataMiningTestIndexApplication {
                     question.answerTop10.add(docId); // add the doc id to the answers list (wiki pages)
                     Document doc = indexSearcher.doc(docId); // search for the doc with a given id
                     String result_answer = doc.get("title");
-                    System.out.println("Document: " + result_answer + ",  " + scoreDoc);
-                    if (counter == 0){
-                        question.answerTop1 = docId;
-                        if (result_answer.equals(question.correctAnswer)){
-                            correct++;
+                    results.println("Document: " + result_answer + ", " + scoreDoc);
+                    // System.out.println("Document: " + result_answer + ",  " + scoreDoc);
+                    // if (counter == 0){
+                    // if (result_answer.equals(question.correctAnswer)){
+                    if (question.correctAnswer.contains("|")){
+                        String[] parts = question.correctAnswer.split("\\|");
+                        if (result_answer.equals(parts[0]) || result_answer.equals(parts[1])){
+                            // System.out.println(result_answer.equalsIgnoreCase(question.correctAnswer));
+                            if (counter < 1){
+                                question.answerTop1 = docId;
+                                correct_1++;
+                                correct_3++;
+                                correct_5++;
+                            }
+                            else if (counter < 3){
+                                correct_3++;
+                                correct_5++;
+                            }
+                            else if (counter < 5){
+                                correct_5++;
+                            }
                         }
                     }
+                    else{
+                        if (result_answer.equals(question.correctAnswer)){
+                            // System.out.println(result_answer.equalsIgnoreCase(question.correctAnswer));
+                            if (counter < 1){
+                                question.answerTop1 = docId;
+                                correct_1++;
+                                correct_3++;
+                                correct_5++;
+                            }
+                            else if (counter < 3){
+                                correct_3++;
+                                correct_5++;
+                            }
+                            else if (counter < 5){
+                                correct_5++;
+                            }
+                        }
+                    }
+                    // }
                     counter++;
 
                 }
-                System.out.println(" ");
+                results.println(" ");
+                // System.out.println(" ");
             }
-            System.out.println("Top 1 correct answers: " + correct);
+            performance.println("Top 1 correct answers: " + correct_1);
+            performance.println("Top 3 correct answers: " + correct_3);
+            performance.println("Top 5 correct answers: " + correct_5);
+            // System.out.println("Top 1 correct answers: " + correct);
 
             // Close the index reader
+            performance.close();
+            results.close();
             indexReader.close();
         } catch (IOException | org.apache.lucene.queryparser.classic.ParseException e) {
             e.printStackTrace();
