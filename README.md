@@ -41,3 +41,25 @@ done
 
 <br>
 
+## SOLR official documentation
+
+1. Creating index: https://solr.apache.org/guide/solr/latest/getting-started/tutorial-diy.html
+<br>
+
+Apache Solr creates its index through a process called indexing, which involves parsing and analyzing the documents to be indexed, extracting relevant information from them, and then storing that information in an optimized data structure for fast retrieval. <br>
+
+Detailed description about how SOLR creates it's index:
+<br>
+1.Document Ingestion: Solr ingests documents, which can be in various formats such as XML, JSON, or CSV. These documents typically represent the data that needs to be indexed, such as web pages, documents, or database records.
+<br>
+2. Analysis: Solr processes each document through a series of analysis steps. This includes tokenization (breaking text into individual words or tokens), filtering (removing stopwords, applying stemming, etc.), and other linguistic processing based on the configured analyzers.
+<br>
+3. Document Indexing: After the analysis phase, Solr indexes the processed documents. It creates an inverted index, which is a mapping of terms to the documents that contain those terms. This allows for efficient full-text searching.
+<br>
+4. Index Storage: The indexed data is stored in an optimized data structure. Solr typically uses a combination of in-memory data structures and on-disk storage to efficiently store and retrieve the indexed documents.
+<br>
+5. Index Optimization: Solr continuously optimizes the index to ensure fast search performance. This includes strategies like segment merging, where smaller index segments are combined into larger segments to improve query performance.
+<br>
+6. Commit and Refresh: Solr periodically commits the changes to the index to make them durable. This involves flushing in-memory changes to disk and updating metadata to reflect the latest state of the index. Additionally, Solr supports real-time indexing, where documents are immediately available for search without the need for a commit operation.
+<br>
+
