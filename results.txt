@@ -1,0 +1,1402 @@
+Number of questions: 100
+
+Clue: The dominant paper in our nations capital its among the top 10 US papers in circulation
+Category: NEWSPAPERS | Correct answer: The Washington Post
+Total Results: 7821+ hits
+Document: Irish Independent, doc=42937 score=19.505487 shardIndex=0
+Document: Los Angeles Times, doc=80908 score=19.485685 shardIndex=0
+Document: The New York Sun, doc=13527 score=19.019573 shardIndex=0
+Document: Media of the United States, doc=51293 score=18.397226 shardIndex=0
+Document: The Spectator, doc=20737 score=18.03319 shardIndex=0
+Document: William Randolph Hearst, doc=5385 score=18.031889 shardIndex=0
+Document: Al-Quds Al-Arabi, doc=290821 score=17.959402 shardIndex=0
+Document: Minute (French newspaper), doc=240266 score=17.518171 shardIndex=0
+Document: Yellow journalism, doc=6060 score=17.507957 shardIndex=0
+Document: Sun-Sentinel, doc=138996 score=17.46473 shardIndex=0
+ 
+Clue: The practice of preauthorizing presidential use of force dates to a 1955 resolution re this island near mainland China
+Category: OLD YEARS RESOLUTIONS | Correct answer: Taiwan
+Total Results: 7062+ hits
+Document: United Nations General Assembly Resolution 505, doc=117311 score=22.039204 shardIndex=0
+Document: Taiwan, doc=7430 score=19.494879 shardIndex=0
+Document: Taiwan Relations Act, doc=22454 score=19.428207 shardIndex=0
+Document: History of the Republic of China, doc=77175 score=18.987093 shardIndex=0
+Document: Kinmen, doc=55416 score=18.81453 shardIndex=0
+Document: Political status of Taiwan, doc=22586 score=18.617085 shardIndex=0
+Document: One-China policy, doc=22746 score=18.344017 shardIndex=0
+Document: Taiwanization, doc=22455 score=18.114841 shardIndex=0
+Document: Lin Sen, doc=66173 score=18.107975 shardIndex=0
+Document: History of Cyprus, doc=15958 score=17.932549 shardIndex=0
+ 
+Clue: Daniel Hertzberg  James B Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading
+Category: NEWSPAPERS | Correct answer: The Wall Street Journal
+Total Results: 9898+ hits
+Document: The Wall Street Journal, doc=61821 score=21.245426 shardIndex=0
+Document: The Baltimore Sun, doc=23456 score=17.68719 shardIndex=0
+Document: The Atlanta Journal-Constitution, doc=131007 score=16.765005 shardIndex=0
+Document: Los Angeles Times, doc=80908 score=16.358013 shardIndex=0
+Document: The Hutchinson News, doc=194766 score=16.242146 shardIndex=0
+Document: Hedrick Smith, doc=129388 score=16.001596 shardIndex=0
+Document: Yellow journalism, doc=6060 score=14.277944 shardIndex=0
+Document: Dow Jones & Company, doc=36793 score=14.117417 shardIndex=0
+Document: Harry Carr, doc=260781 score=13.793094 shardIndex=0
+Document: Newseum, doc=97262 score=13.723303 shardIndex=0
+ 
+Clue: Song that says you make me smile with my heart your looks are laughable unphotographable
+Category: BROADWAY LYRICS | Correct answer: My Funny Valentine
+Total Results: 5242+ hits
+Document: Baul, doc=50726 score=22.02723 shardIndex=0
+Document: Starlight Express, doc=84644 score=21.652794 shardIndex=0
+Document: Keyshia Cole, doc=147289 score=21.540934 shardIndex=0
+Document: Everyman (play), doc=1411 score=20.373411 shardIndex=0
+Document: Bess, You Is My Woman Now, doc=277700 score=20.332409 shardIndex=0
+Document: Friends, Romans, countrymen, lend me your ears, doc=156187 score=20.277067 shardIndex=0
+Document: Irving Berlin, doc=12215 score=20.225946 shardIndex=0
+Document: Jerome Kern, doc=279089 score=20.164186 shardIndex=0
+Document: An Invitation to Lubberland, doc=51270 score=19.969076 shardIndex=0
+Document: Jason Robert Brown, doc=28961 score=19.850506 shardIndex=0
+ 
+Clue: In 2011 bell ringers for this charity started accepting digital donations to its red kettle
+Category: POTPOURRI | Correct answer: The Salvation Army|Salvation Army
+Total Results: 8228+ hits
+Document: The Salvation Army, doc=58631 score=21.153439 shardIndex=0
+Document: Pró-Vida, doc=91507 score=14.40667 shardIndex=0
+Document: Change ringing, doc=51812 score=14.255942 shardIndex=0
+Document: Aloysius Society, doc=277199 score=14.055803 shardIndex=0
+Document: antitrust, doc=4892 score=13.503738 shardIndex=0
+Document: Goodwill Industries, doc=96226 score=12.536941 shardIndex=0
+Document: Capital (radio network), doc=265918 score=12.229208 shardIndex=0
+Document: GiveWell, doc=188229 score=12.013625 shardIndex=0
+Document: Mikael Tariverdiev, doc=117177 score=11.9802065 shardIndex=0
+Document: Chadlington, doc=132271 score=11.796977 shardIndex=0
+ 
+Clue: The Naples Museum of Art
+Category: STATE OF THE ART MUSEUM Alex Well give you the museum You give us the state | Correct answer: Florida
+Total Results: 7844+ hits
+Document: Michael Bierut, doc=127081 score=23.673761 shardIndex=0
+Document: Affandi, doc=121589 score=22.097607 shardIndex=0
+Document: Museum of Science and Industry (Chicago), doc=15722 score=21.981422 shardIndex=0
+Document: Red Jacket, doc=26998 score=21.780996 shardIndex=0
+Document: Bhavacakra, doc=724 score=21.099892 shardIndex=0
+Document: Art museum, doc=22238 score=21.089848 shardIndex=0
+Document: Devon Dikeou, doc=247868 score=21.063606 shardIndex=0
+Document: Agnes Martin, doc=56911 score=20.985363 shardIndex=0
+Document: Louis Dubois (painter), doc=270245 score=20.916096 shardIndex=0
+Document: Tate, doc=22258 score=20.828468 shardIndex=0
+ 
+Clue: This Italian painter depicted the Adoration of the Golden Calf
+Category: TIN MEN | Correct answer: Tintoretto
+Total Results: 3353+ hits
+Document: Nicola Cianfanelli, doc=282050 score=14.468649 shardIndex=0
+Document: Tintoretto, doc=142566 score=13.718432 shardIndex=0
+Document: Antonio da Correggio, doc=53943 score=12.199879 shardIndex=0
+Document: Carlo Dolci, doc=80242 score=11.787552 shardIndex=0
+Document: Dirk Stoop, doc=278404 score=11.7037945 shardIndex=0
+Document: Themes in Italian Renaissance painting, doc=173103 score=11.417529 shardIndex=0
+Document: Lorenzo Monaco, doc=80195 score=11.366367 shardIndex=0
+Document: Pieter Codde, doc=99208 score=11.361039 shardIndex=0
+Document: Giovanni Battista Gaulli, doc=142984 score=11.279787 shardIndex=0
+Document: Giorgio Vasari, doc=53934 score=10.876336 shardIndex=0
+ 
+Clue: This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship
+Category: UCLA CELEBRITY ALUMNI | Correct answer: Jackie Joyner-Kersee
+Total Results: 3796+ hits
+Document: Jackie Joyner-Kersee, doc=27247 score=28.801886 shardIndex=0
+Document: University of California, Los Angeles, doc=7953 score=21.29685 shardIndex=0
+Document: George Stanich, doc=163665 score=20.635006 shardIndex=0
+Document: Kareem Abdul-Jabbar, doc=279721 score=20.0197 shardIndex=0
+Document: Jackie Robinson, doc=279064 score=18.805532 shardIndex=0
+Document: Cy Young (athlete), doc=159161 score=18.378803 shardIndex=0
+Document: Wilma Rudolph, doc=5707 score=18.209145 shardIndex=0
+Document: Maria Mutola, doc=22752 score=18.108149 shardIndex=0
+Document: Michigan Wolverines, doc=119220 score=17.698809 shardIndex=0
+Document: Bellarmine-Jefferson High School, doc=171077 score=17.698324 shardIndex=0
+ 
+Clue: Originally this clubs emblem was a wagon wheel now its a gearwheel with 24 cogs  6 spokes
+Category: SERVICE ORGANIZATIONS | Correct answer: Rotary International
+Total Results: 10955+ hits
+Document: De Poelen, Dronrijp, doc=255430 score=19.032574 shardIndex=0
+Document: Chevrolet Celebrity, doc=130326 score=17.334326 shardIndex=0
+Document: De Mearmin, Dokkum, doc=251188 score=17.13564 shardIndex=0
+Document: Spoke, doc=43848 score=15.6771345 shardIndex=0
+Document: Hammer and sickle, doc=79899 score=15.639534 shardIndex=0
+Document: Leyland P76, doc=45002 score=14.298075 shardIndex=0
+Document: Holden Gemini, doc=133360 score=14.093993 shardIndex=0
+Document: Chrysler New Yorker, doc=131993 score=13.902267 shardIndex=0
+Document: Webster's Mill, Framsden, doc=232308 score=13.878521 shardIndex=0
+Document: Penny-farthing, doc=57001 score=13.87549 shardIndex=0
+ 
+Clue: Several bridges including El Tahrir cross the Nile in this capital
+Category: AFRICAN CITIES | Correct answer: Cairo
+Total Results: 5984+ hits
+Document: Cairo, doc=15121 score=18.96909 shardIndex=0
+Document: Khartoum, doc=293098 score=18.53635 shardIndex=0
+Document: Nile, doc=4562 score=16.934334 shardIndex=0
+Document: Kosti, Sudan, doc=94903 score=15.692198 shardIndex=0
+Document: Omdurman, doc=52929 score=14.20179 shardIndex=0
+Document: Pan-American Highway (North America), doc=87242 score=14.129025 shardIndex=0
+Document: Crossing the Red Sea, doc=19296 score=13.322478 shardIndex=0
+Document: Faiyum Oasis, doc=168117 score=13.032558 shardIndex=0
+Document: Lleida, doc=294342 score=12.989487 shardIndex=0
+Document: Prefecture Apostolic of the Delta of the Nile, doc=126161 score=12.865433 shardIndex=0
+ 
+Clue: After the fall of France in 1940 this general told his country France has lost a battle But France has not lost the war
+Category: HISTORICAL QUOTES | Correct answer: Charles de Gaulle|de Gaulle
+Total Results: 8708+ hits
+Document: Hubert Lyautey, doc=131097 score=24.896202 shardIndex=0
+Document: Philippe Pétain, doc=22244 score=24.768457 shardIndex=0
+Document: Anglo-French Supreme War Council, doc=232345 score=24.318117 shardIndex=0
+Document: Charles V of France, doc=38676 score=23.91294 shardIndex=0
+Document: Munich Agreement, doc=51750 score=23.607973 shardIndex=0
+Document: Free French Forces, doc=62829 score=23.47345 shardIndex=0
+Document: Leopold III of Belgium, doc=65687 score=23.121439 shardIndex=0
+Document: Polish contribution to World War II, doc=808 score=23.023043 shardIndex=0
+Document: Austrian Empire, doc=76094 score=22.932886 shardIndex=0
+Document: Lorraine (duchy), doc=13244 score=22.807386 shardIndex=0
+ 
+Clue: The Taft Museum of Art
+Category: STATE OF THE ART MUSEUM Alex Well give you the museum You give us the state | Correct answer: Ohio
+Total Results: 7961+ hits
+Document: Museum of Science and Industry (Chicago), doc=15722 score=23.86842 shardIndex=0
+Document: Michael Bierut, doc=127081 score=23.673761 shardIndex=0
+Document: Affandi, doc=121589 score=22.097607 shardIndex=0
+Document: Red Jacket, doc=26998 score=21.780996 shardIndex=0
+Document: Anders Zorn, doc=57235 score=21.69803 shardIndex=0
+Document: Bhavacakra, doc=724 score=21.099892 shardIndex=0
+Document: Art museum, doc=22238 score=21.089848 shardIndex=0
+Document: Devon Dikeou, doc=247868 score=21.063606 shardIndex=0
+Document: Agnes Martin, doc=56911 score=20.985363 shardIndex=0
+Document: Louis Dubois (painter), doc=270245 score=20.916096 shardIndex=0
+ 
+Clue: The mast from the USS Maine is part of the memorial to the ship  crew at this national cemetery
+Category: CEMETERIES | Correct answer: Arlington National Cemetery|Arlington Cemetery
+Total Results: 3806+ hits
+Document: USS Arizona Memorial, doc=44504 score=22.596441 shardIndex=0
+Document: Thomas W. Lawson (ship), doc=127129 score=19.746103 shardIndex=0
+Document: Margate Surfboat, doc=138421 score=18.59462 shardIndex=0
+Document: Frank Newcomb, doc=34512 score=18.114483 shardIndex=0
+Document: USS Bonhomme Richard (LHD-6), doc=78622 score=17.33885 shardIndex=0
+Document: Edwin M. Shepard, doc=250830 score=17.218061 shardIndex=0
+Document: Panayis Athanase Vagliano, doc=103652 score=16.91079 shardIndex=0
+Document: George Henry Preble, doc=28004 score=16.616283 shardIndex=0
+Document: USCGC Mohawk (WPG-78), doc=210911 score=16.506378 shardIndex=0
+Document: Tomb of the Unknowns, doc=18046 score=16.458317 shardIndex=0
+ 
+Clue: In 2009 Joker on film
+Category: GOLDEN GLOBE WINNERS | Correct answer: Heath Ledger
+Total Results: 2263+ hits
+Document: Jimmy Harry, doc=229176 score=13.917422 shardIndex=0
+Document: Joan Plowright, doc=85961 score=13.727207 shardIndex=0
+Document: Miranda Richardson, doc=9780 score=13.248274 shardIndex=0
+Document: Geoffrey Rush, doc=44312 score=13.167414 shardIndex=0
+Document: Fred Astaire, doc=21406 score=13.165638 shardIndex=0
+Document: Olympia Dukakis, doc=96947 score=12.970678 shardIndex=0
+Document: Warren Beatty, doc=17137 score=12.836033 shardIndex=0
+Document: Chaim Topol, doc=64534 score=12.83047 shardIndex=0
+Document: Rita Blanco, doc=240474 score=12.578403 shardIndex=0
+Document: Pelle the Conqueror, doc=43972 score=12.575824 shardIndex=0
+ 
+Clue: It was the peninsula fought over in the peninsular war of 1808 to 1814
+Category: HISTORICAL HODGEPODGE | Correct answer: Iberia|Iberian Peninsula
+Total Results: 3459+ hits
+Document: Vicente Genaro de Quesada, doc=196556 score=18.646645 shardIndex=0
+Document: Godfrey Macdonald, 3rd Baron Macdonald of Slate, doc=106174 score=16.51644 shardIndex=0
+Document: Ferdinand VII of Spain, doc=60792 score=15.880673 shardIndex=0
+Document: Napoleonic Wars, doc=35806 score=15.232809 shardIndex=0
+Document: War of the Sixth Coalition, doc=97895 score=14.869568 shardIndex=0
+Document: Battle of Roliça, doc=40591 score=14.862877 shardIndex=0
+Document: Image:CastillaLeon 1360.png|thumb|Iberian polities circa 1360., doc=36895 score=14.162291 shardIndex=0
+Document: Alexander Gordon (British cavalry officer), doc=268623 score=14.055169 shardIndex=0
+Document: FitzRoy Somerset, 1st Baron Raglan, doc=56204 score=13.762569 shardIndex=0
+Document: Edward John Eliot, doc=113252 score=12.780174 shardIndex=0
+ 
+Clue: In 1980 China founded a center for these cute creatures in its bamboorich Wolong Nature Preserve
+Category: CONSERVATION | Correct answer: Panda|Giant panda
+Total Results: 8313+ hits
+Document: Environmental movement, doc=35817 score=13.506548 shardIndex=0
+Document: Kawaii, doc=84659 score=12.874178 shardIndex=0
+Document: Monteverde Cloud Forest Reserve, doc=222105 score=12.5624895 shardIndex=0
+Document: Chengdu, doc=43436 score=12.53176 shardIndex=0
+Document: La Tigra National Park, doc=169666 score=12.529726 shardIndex=0
+Document: International Union for Conservation of Nature, doc=53826 score=12.17018 shardIndex=0
+Document: Sangihe tarsier, doc=135815 score=12.0374155 shardIndex=0
+Document: Xiang Xiang (giant panda), doc=168429 score=11.974484 shardIndex=0
+Document: Academy of Natural Sciences of Drexel University, doc=129779 score=11.818146 shardIndex=0
+Document: Environmental ethics, doc=61044 score=11.808391 shardIndex=0
+ 
+Clue: 1988 Father Figure
+Category: 80s NO1 HITMAKERS | Correct answer: George Michael
+Total Results: 8884+ hits
+Document: 80, doc=6965 score=8.337667 shardIndex=0
+Document: 1988, doc=6355 score=8.283199 shardIndex=0
+Document: Schweizer SGS 1-24, doc=203791 score=7.5651603 shardIndex=0
+Document: Matt Jefferies, doc=82046 score=7.41903 shardIndex=0
+Document: Marley Marl, doc=294632 score=7.270277 shardIndex=0
+Document: Moscow Ballet (United States), doc=151871 score=6.861929 shardIndex=0
+Document: Remo Brindisi, doc=274369 score=6.7188907 shardIndex=0
+Document: Brian Brown (musician), doc=239580 score=6.637128 shardIndex=0
+Document: Skeletons (Stevie Wonder song), doc=224658 score=6.346844 shardIndex=0
+Document: Zhao Nanqi, doc=99094 score=6.328648 shardIndex=0
+ 
+Clue: In an essay defending this 2011 film Myrlie EversWilliams said My mother was this film  so was her mother
+Category: AFRICANAMERICAN WOMEN | Correct answer: The Help
+Total Results: 6349+ hits
+Document: Illeana Douglas, doc=70502 score=19.397396 shardIndex=0
+Document: Shirley MacLaine, doc=59513 score=19.369461 shardIndex=0
+Document: Mommie Dearest, doc=66269 score=19.25129 shardIndex=0
+Document: Sally Mann, doc=49659 score=18.9696 shardIndex=0
+Document: Penny Marshall, doc=26963 score=18.749601 shardIndex=0
+Document: Myrna Loy, doc=59514 score=18.423523 shardIndex=0
+Document: Ellie Darcey-Alden, doc=274270 score=18.387789 shardIndex=0
+Document: My Girl 2, doc=47500 score=18.348145 shardIndex=0
+Document: Amy Tan, doc=15701 score=18.23932 shardIndex=0
+Document: Shirley Jones, doc=43550 score=18.162619 shardIndex=0
+ 
+Clue: Father Michael McGivney founded this fraternal society for Catholic laymen in 1882
+Category: SERVICE ORGANIZATIONS | Correct answer: Knights of Columbus
+Total Results: 7436+ hits
+Document: Knights of Columbus, doc=279692 score=25.651234 shardIndex=0
+Document: Studentenverbindung, doc=141767 score=15.236949 shardIndex=0
+Document: Lambda Theta Phi, doc=34623 score=15.04726 shardIndex=0
+Document: Thomas Wyatt Turner, doc=142551 score=14.341662 shardIndex=0
+Document: K.A.V. Lovania Leuven, doc=143256 score=14.233402 shardIndex=0
+Document: Omega Psi Phi, doc=35057 score=14.040228 shardIndex=0
+Document: Cartellverband, doc=143143 score=13.955323 shardIndex=0
+Document: St. Vincent de Paul Church (Manhattan), doc=292480 score=13.9097 shardIndex=0
+Document: Josephite Fathers, doc=119341 score=13.598214 shardIndex=0
+Document: Pi Alpha Phi, doc=117767 score=13.366007 shardIndex=0
+ 
+Clue: Early projects of the WWF this organization included work with the bald eagle  the red wolf
+Category: CONSERVATION | Correct answer: World Wide Fund|World Wide Fund for Nature
+Total Results: 7635+ hits
+Document: United States Fish and Wildlife Service, doc=11602 score=15.144135 shardIndex=0
+Document: Maasai Mara, doc=10063 score=14.013177 shardIndex=0
+Document: Falconry, doc=43043 score=13.771725 shardIndex=0
+Document: Guadalajara Zoo, doc=154159 score=13.756262 shardIndex=0
+Document: Itasca State Park, doc=80280 score=13.537731 shardIndex=0
+Document: Lahore Zoo, doc=140048 score=13.427565 shardIndex=0
+Document: Basal (phylogenetics)|basal, doc=7703 score=13.055217 shardIndex=0
+Document: Kratié (town), doc=92751 score=13.032828 shardIndex=0
+Document: Ferruginous Hawk, doc=42186 score=13.023078 shardIndex=0
+Document: Tundi Spring Agardy, doc=277661 score=13.013875 shardIndex=0
+ 
+Clue: Indonesias largest lizard its protected from poachers though we wish it could breathe fire to do the job itself
+Category: CONSERVATION | Correct answer: Komodo dragon
+Total Results: 14262+ hits
+Document: Komodo dragon, doc=293127 score=17.360657 shardIndex=0
+Document: Dragon (Middle-earth), doc=22351 score=15.770688 shardIndex=0
+Document: United Kingdom general election, February 1974, doc=77376 score=15.717226 shardIndex=0
+Document: Ecology movement, doc=1927 score=15.331793 shardIndex=0
+Document: Alaungdaw Kathapa National Park, doc=217591 score=15.306818 shardIndex=0
+Document: Chagos Marine Protected Area, doc=284383 score=15.131321 shardIndex=0
+Document: Bloom County, doc=69092 score=14.823952 shardIndex=0
+Document: Wishmaster (film), doc=26276 score=14.336294 shardIndex=0
+Document: Cenozoic, doc=35947 score=14.184119 shardIndex=0
+Document: Stanley Baldwin, doc=13506 score=14.0885515 shardIndex=0
+ 
+Clue: Nov 28 1929 This man  his chief pilot Bernt Balchen fly to South Pole Yowza Youll be an admirable admiral sir
+Category: 1920s NEWS FLASH | Correct answer: Richard Byrd|Richard E. Byrd
+Total Results: 6663+ hits
+Document: 1929, doc=6342 score=21.385565 shardIndex=0
+Document: Keith Park, doc=76151 score=20.653141 shardIndex=0
+Document: Home Fleet, doc=47657 score=19.93182 shardIndex=0
+Document: Edwyn Alexander-Sinclair, doc=165566 score=19.231815 shardIndex=0
+Document: George Hyde (admiral), doc=99423 score=18.722483 shardIndex=0
+Document: Alan Shepard, doc=17671 score=18.719847 shardIndex=0
+Document: Leonard Holbrook, doc=235778 score=18.111338 shardIndex=0
+Document: David Murray Anderson, doc=48288 score=18.10132 shardIndex=0
+Document: Wilson Flagg, doc=5415 score=18.010637 shardIndex=0
+Document: Battle of the Philippine Sea, doc=74989 score=17.589033 shardIndex=0
+ 
+Clue: On May 5 1878 Alice Chambers was the last person buried in this Dodge City Kansas cemetery
+Category: CEMETERIES | Correct answer: Boot Hill
+Total Results: 5684+ hits
+Document: Boot Hill, doc=134274 score=23.205717 shardIndex=0
+Document: Panteón de Dolores, doc=141585 score=18.010202 shardIndex=0
+Document: Doc Holliday, doc=85722 score=16.861267 shardIndex=0
+Document: Ross Bay Cemetery, doc=136158 score=16.684721 shardIndex=0
+Document: Edwin M. Shepard, doc=250830 score=16.414576 shardIndex=0
+Document: James E. Davis (councilman), doc=69977 score=16.384575 shardIndex=0
+Document: William S. Gregory, doc=127021 score=16.218039 shardIndex=0
+Document: Almon Brown Strowger, doc=54671 score=16.052265 shardIndex=0
+Document: George Law Curry, doc=110158 score=15.900831 shardIndex=0
+Document: Cemetery, doc=20557 score=15.73435 shardIndex=0
+ 
+Clue: The Royal Palace grounds feature a statue of King Norodom who in the late 1800s was compelled to first put his country under the control of this European power of course it was sculpted in that country
+Category: CAMBODIAN HISTORY  CULTURE | Correct answer: France
+Total Results: 13319+ hits
+Document: Politics of Cambodia, doc=2546 score=30.925442 shardIndex=0
+Document: History of Cambodia, doc=2543 score=29.588385 shardIndex=0
+Document: History of Madagascar, doc=16152 score=24.192543 shardIndex=0
+Document: Reamker, doc=131070 score=24.135143 shardIndex=0
+Document: Kingdom of Tahiti, doc=259806 score=23.988914 shardIndex=0
+Document: History of Nepal, doc=4643 score=23.893238 shardIndex=0
+Document: Capital of the Netherlands, doc=43035 score=23.88298 shardIndex=0
+Document: Norodom Buppha Devi, doc=145613 score=23.850004 shardIndex=0
+Document: Travancore, doc=52171 score=23.634167 shardIndex=0
+Document: Leopold II of Belgium, doc=19826 score=23.61788 shardIndex=0
+ 
+Clue: In the 400s BC this Chinese philosopher went into exile for 12 years
+Category: HISTORICAL HODGEPODGE | Correct answer: Confucius
+Total Results: 5798+ hits
+Document: Dating creation, doc=56940 score=13.59059 shardIndex=0
+Document: Confucius, doc=14611 score=13.044235 shardIndex=0
+Document: Chinese mythology, doc=63139 score=12.427633 shardIndex=0
+Document: Laozi, doc=21546 score=12.081103 shardIndex=0
+Document: Zhang Binglin, doc=86847 score=11.800989 shardIndex=0
+Document: World history, doc=5481 score=11.773311 shardIndex=0
+Document: Cicero, doc=14899 score=11.737041 shardIndex=0
+Document: Emperor Gaozu of Han, doc=142295 score=11.631555 shardIndex=0
+Document: Chinese astrology, doc=52037 score=11.468273 shardIndex=0
+Document: Book of Tobit, doc=62222 score=11.142904 shardIndex=0
+ 
+Clue: Bessie Coleman the first black woman licensed as a pilot landed a street named in her honor at this Chicago airport
+Category: AFRICANAMERICAN WOMEN | Correct answer: O'Hare|O'Hare International Airport
+Total Results: 7503+ hits
+Document: Bessie Coleman, doc=80807 score=37.244705 shardIndex=0
+Document: Pilot (aeronautics), doc=22714 score=21.247396 shardIndex=0
+Document: Jean Burns, doc=159598 score=20.098312 shardIndex=0
+Document: Eileen Collins, doc=141508 score=18.365845 shardIndex=0
+Document: Bertha Palmer, doc=136520 score=17.302948 shardIndex=0
+Document: Ida Cox, doc=87099 score=17.2785 shardIndex=0
+Document: River City Rascals, doc=22719 score=17.056576 shardIndex=0
+Document: Catherine O'Leary, doc=130855 score=16.980824 shardIndex=0
+Document: Hélène Dutrieu, doc=74826 score=16.6295 shardIndex=0
+Document: Lassie Goodbread-Black, doc=204259 score=16.570555 shardIndex=0
+ 
+Clue: The Ammonites held sway in this Mideast country in the 1200s BC  the capital is named for them
+Category: HISTORICAL HODGEPODGE | Correct answer: Jordan
+Total Results: 7368+ hits
+Document: Rabbah, doc=19125 score=13.44494 shardIndex=0
+Document: History of Armenia, doc=57649 score=12.860083 shardIndex=0
+Document: Semitic people, doc=64834 score=12.763102 shardIndex=0
+Document: Assyrian conquest of Aram, doc=265946 score=12.354537 shardIndex=0
+Document: Terpstra, doc=208307 score=12.313341 shardIndex=0
+Document: Paphlagonia, doc=73737 score=11.490294 shardIndex=0
+Document: Cincinnatus, doc=69304 score=11.458372 shardIndex=0
+Document: Gaul, doc=3739 score=11.456143 shardIndex=0
+Document: Jotham of Judah, doc=26624 score=11.343999 shardIndex=0
+Document: Thebes, Egypt, doc=22068 score=11.307992 shardIndex=0
+ 
+Clue: The Sum of All Fears he also won a screenwriting Oscar for Good Will Hunting
+Category: HE PLAYED A GUY NAMED JACK RYAN IN | Correct answer: Ben Affleck
+Total Results: 7557+ hits
+Document: Peter Shaffer, doc=54773 score=19.776855 shardIndex=0
+Document: Helen Hunt, doc=1285 score=19.068476 shardIndex=0
+Document: William Goldman, doc=5569 score=18.577803 shardIndex=0
+Document: Billy Wilder, doc=1862 score=18.41356 shardIndex=0
+Document: John Huston, doc=953 score=18.27916 shardIndex=0
+Document: Jack Nicholson, doc=215316 score=18.148039 shardIndex=0
+Document: Ben Affleck, doc=51998 score=18.037735 shardIndex=0
+Document: Walter Matthau, doc=17139 score=17.339039 shardIndex=0
+Document: Elmer Bernstein, doc=66308 score=17.257952 shardIndex=0
+Document: Tim Ryan (rugby union), doc=206591 score=16.775158 shardIndex=0
+ 
+Clue: One of the NY Times headlines on this landmark 1973 Supreme Court decision was Cardinals shocked
+Category: POTPOURRI | Correct answer: Roe v. Wade
+Total Results: 5158+ hits
+Document: Regents of the University of California v. Bakke, doc=42894 score=14.583288 shardIndex=0
+Document: Miller v. California, doc=68690 score=14.477909 shardIndex=0
+Document: Griswold v. Connecticut, doc=60940 score=14.477388 shardIndex=0
+Document: R. v. Owen, doc=265816 score=14.266664 shardIndex=0
+Document: Morris Pashman, doc=243927 score=14.174741 shardIndex=0
+Document: Canada v. Schmidt, doc=113791 score=14.161766 shardIndex=0
+Document: Gideon v. Wainwright, doc=63498 score=13.845929 shardIndex=0
+Document: William Howard Taft, doc=5381 score=13.689817 shardIndex=0
+Document: Mostyn Hanger, doc=230849 score=13.669932 shardIndex=0
+Document: J. Edward Lumbard, doc=128646 score=13.651039 shardIndex=0
+ 
+Clue: Frances Philip IVknown as The Fairhad Jacques De Molay the last Grand Master of this order burned in 1314
+Category: IM BURNIN FOR YOU | Correct answer: Knights Templar
+Total Results: 6035+ hits
+Document: Philip IV of France, doc=38454 score=30.096973 shardIndex=0
+Document: Knights Templar, doc=279697 score=26.755724 shardIndex=0
+Document: Ferdinand IV of Castile, doc=60785 score=21.147924 shardIndex=0
+Document: Humbert de Pairaud, doc=251091 score=18.16356 shardIndex=0
+Document: Tomar, doc=238519 score=15.573973 shardIndex=0
+Document: Duke of Nemours, doc=136497 score=15.271717 shardIndex=0
+Document: Battle of Bannockburn, doc=16253 score=14.963721 shardIndex=0
+Document: Louis XIII of France, doc=38369 score=14.640036 shardIndex=0
+Document: Victor Amadeus I, Duke of Savoy, doc=19207 score=14.515508 shardIndex=0
+Document: Louis XIV of France, doc=294103 score=14.418163 shardIndex=0
+ 
+Clue: The Georgia OKeeffe Museum
+Category: STATE OF THE ART MUSEUM Alex Well give you the museum You give us the state | Correct answer: New Mexico
+Total Results: 8084+ hits
+Document: Michael Bierut, doc=127081 score=21.201836 shardIndex=0
+Document: Red Jacket, doc=26998 score=20.437696 shardIndex=0
+Document: National Museum of Commercial Aviation, doc=251213 score=19.885185 shardIndex=0
+Document: Affandi, doc=121589 score=19.835495 shardIndex=0
+Document: Museum of Science and Industry (Chicago), doc=15722 score=19.769844 shardIndex=0
+Document: Frogner, doc=78280 score=19.61199 shardIndex=0
+Document: Bhavacakra, doc=724 score=19.117878 shardIndex=0
+Document: Bernice Johnson Reagon, doc=68031 score=18.980291 shardIndex=0
+Document: Mystic Seaport, doc=74694 score=18.660873 shardIndex=0
+Document: Customs House Museum and Cultural Center, doc=115269 score=18.454262 shardIndex=0
+ 
+Clue: The name of this largest Moroccan city combines 2 Spanish words
+Category: AFRICAN CITIES | Correct answer: Casablanca
+Total Results: 6247+ hits
+Document: Casablanca, doc=64265 score=15.996666 shardIndex=0
+Document: Perejil Island, doc=17194 score=15.828323 shardIndex=0
+Document: Melilla, doc=9839 score=15.6339855 shardIndex=0
+Document: Leo Africanus, doc=71501 score=15.590601 shardIndex=0
+Document: Oran, doc=62694 score=15.223107 shardIndex=0
+Document: History of Western Sahara, doc=637 score=15.177691 shardIndex=0
+Document: Extremadura, doc=18207 score=14.832983 shardIndex=0
+Document: Arecibo, Puerto Rico, doc=78922 score=14.522952 shardIndex=0
+Document: Marrakesh, doc=10057 score=14.482571 shardIndex=0
+Document: Londrina, doc=47092 score=14.424993 shardIndex=0
+ 
+Clue: JellO
+Category: NAME THE PARENT COMPANY | Correct answer: Kraft Foods
+Total Results: 4942+ hits
+Document: AK Press, doc=47504 score=8.579411 shardIndex=0
+Document: Bedtime for Democracy, doc=96737 score=8.035143 shardIndex=0
+Document: East Bay Ray, doc=96745 score=7.8080044 shardIndex=0
+Document: Tipper Gore, doc=23543 score=7.785911 shardIndex=0
+Document: Jell-O, doc=279367 score=7.604494 shardIndex=0
+Document: Mary Jane's Not a Virgin Anymore, doc=228542 score=7.302684 shardIndex=0
+Document: Give Me Convenience or Give Me Death, doc=61598 score=7.0266104 shardIndex=0
+Document: MTX Audio, doc=231050 score=6.996752 shardIndex=0
+Document: California Über Alles, doc=62025 score=6.706748 shardIndex=0
+Document: Reed Boucher, doc=171395 score=6.671147 shardIndex=0
+ 
+Clue: 2011 Chicago mayor Tom Kane
+Category: GOLDEN GLOBE WINNERS | Correct answer: Kelsey Grammer
+Total Results: 3150+ hits
+Document: Olympia Dukakis, doc=96947 score=13.294304 shardIndex=0
+Document: Miranda Richardson, doc=9780 score=13.154186 shardIndex=0
+Document: Tom Wilkinson, doc=60809 score=12.888169 shardIndex=0
+Document: Cybill, doc=61171 score=12.877169 shardIndex=0
+Document: Christopher McQuarrie, doc=62150 score=12.568203 shardIndex=0
+Document: Celeste Holm, doc=47368 score=12.3621855 shardIndex=0
+Document: Matt LeBlanc, doc=86406 score=12.275203 shardIndex=0
+Document: Jessica Lange, doc=17908 score=12.199133 shardIndex=0
+Document: Piper Perabo, doc=26055 score=12.083859 shardIndex=0
+Document: Larry McMurtry, doc=75532 score=12.052908 shardIndex=0
+ 
+Clue: Title residence of Otter Flounder Pinto  Bluto in a 1978 comedy
+Category: THE RESIDENTS | Correct answer: Animal House
+Total Results: 5081+ hits
+Document: Animal House, doc=11580 score=24.190672 shardIndex=0
+Document: Bluto, doc=54372 score=12.911625 shardIndex=0
+Document: Flounder, doc=36538 score=11.870328 shardIndex=0
+Document: Claudia Galli, doc=250204 score=10.869172 shardIndex=0
+Document: Scott & Muriel, doc=191731 score=10.861259 shardIndex=0
+Document: Gigging, doc=107827 score=10.125343 shardIndex=0
+Document: Ford Pinto, doc=63821 score=9.978179 shardIndex=0
+Document: National Lampoon (magazine), doc=5278 score=9.885145 shardIndex=0
+Document: A Night to Remember (1942 film), doc=208414 score=9.456877 shardIndex=0
+Document: Lyall Brooks, doc=174199 score=9.413538 shardIndex=0
+ 
+Clue: Neurobiologist Amy Farrah Fowler on The Big Bang Theory in real life she has a PhD in neuroscience from UCLA
+Category: UCLA CELEBRITY ALUMNI | Correct answer: Mayim Bialik
+Total Results: 4732+ hits
+Document: Mayim Bialik, doc=140119 score=47.166607 shardIndex=0
+Document: Amy Fowler, doc=278601 score=24.64979 shardIndex=0
+Document: Howard Wolowitz, doc=225699 score=21.851166 shardIndex=0
+Document: ABC Studios|Touchstone Television, doc=131368 score=21.460678 shardIndex=0
+Document: Andrea M. Ghez, doc=44625 score=20.07104 shardIndex=0
+Document: Mighty Bruins, doc=142772 score=18.503422 shardIndex=0
+Document: Raj Koothrappali, doc=225712 score=18.392067 shardIndex=0
+Document: University of California, Los Angeles, doc=7953 score=18.323975 shardIndex=0
+Document: Abraham Robinson, doc=36303 score=17.444572 shardIndex=0
+Document: Julie Dash, doc=56822 score=17.418497 shardIndex=0
+ 
+Clue: In The Deadlocked Election of 1800 James R Sharp outlines the fall of this dueling vice president
+Category: NOTES FROM THE CAMPAIGN TRAIL | Correct answer: Aaron Burr
+Total Results: 6906+ hits
+Document: Aaron Burr, doc=19579 score=21.31504 shardIndex=0
+Document: Richard Mentor Johnson, doc=58824 score=17.674038 shardIndex=0
+Document: Vice President of the United States, doc=389 score=16.364544 shardIndex=0
+Document: George Clinton (vice president), doc=59877 score=15.772908 shardIndex=0
+Document: Daniel D. Tompkins, doc=58815 score=15.584431 shardIndex=0
+Document: Republican Party presidential primaries, 1976, doc=184719 score=15.368341 shardIndex=0
+Document: William O. Douglas, doc=40998 score=14.679771 shardIndex=0
+Document: John Breathitt, doc=144052 score=14.650213 shardIndex=0
+Document: John C. Breckinridge, doc=58850 score=14.642649 shardIndex=0
+Document: Massachusetts Democratic Party, doc=155512 score=14.566967 shardIndex=0
+ 
+Clue: He served in the KGB before becoming president  then prime minister of Russia
+Category: TIN MEN | Correct answer: Vladimir Putin|Putin
+Total Results: 5689+ hits
+Document: Vladimir Putin, doc=429 score=16.788445 shardIndex=0
+Document: Keizō Obuchi, doc=96652 score=16.671238 shardIndex=0
+Document: Rajiv Gandhi, doc=7727 score=16.28854 shardIndex=0
+Document: Vladimir Alganov, doc=237619 score=15.964674 shardIndex=0
+Document: Politics of Russia, doc=7406 score=15.796343 shardIndex=0
+Document: Politics of Latvia, doc=293408 score=15.298212 shardIndex=0
+Document: Yuri Andropov, doc=15595 score=15.203233 shardIndex=0
+Document: Government of Kazakhstan, doc=38975 score=15.129752 shardIndex=0
+Document: August Zaleski, doc=157812 score=15.119205 shardIndex=0
+Document: Richard Crossman, doc=129858 score=15.0448265 shardIndex=0
+ 
+Clue: When asked to describe herself she says first  foremost she is Malia  Sashas mom
+Category: AFRICANAMERICAN WOMEN | Correct answer: Michelle Obama
+Total Results: 6228+ hits
+Document: Michelle Obama, doc=142833 score=20.366894 shardIndex=0
+Document: Gertrud Månsson, doc=278253 score=17.914122 shardIndex=0
+Document: Margaret Leijonhufvud, doc=52169 score=17.46906 shardIndex=0
+Document: cat, doc=66373 score=17.183039 shardIndex=0
+Document: Nicholas Courtney, doc=110357 score=17.151531 shardIndex=0
+Document: Episode 1.1 (Secret Diary of a Call Girl), doc=253287 score=16.81622 shardIndex=0
+Document: Deborah Sampson, doc=141194 score=16.755617 shardIndex=0
+Document: Princesas, doc=90028 score=16.64046 shardIndex=0
+Document: Octavia E. Butler, doc=62183 score=16.455051 shardIndex=0
+Document: Sasha Pieterse, doc=145734 score=16.413727 shardIndex=0
+ 
+Clue: She wrote My candle burns at both ends but ah my foes and oh my friendsit gives a lovely light
+Category: POETS  POETRY | Correct answer: Edna St. Vincent Millay
+Total Results: 5694+ hits
+Document: Mihri Hatun, doc=88738 score=27.530191 shardIndex=0
+Document: Sonnet 133, doc=165029 score=24.917866 shardIndex=0
+Document: Henry Wadsworth Longfellow, doc=22371 score=24.281506 shardIndex=0
+Document: Anna Akhmatova, doc=22592 score=24.187513 shardIndex=0
+Document: John Keats, doc=279281 score=23.421225 shardIndex=0
+Document: Conceit, doc=55572 score=22.908417 shardIndex=0
+Document: Alexandra Feodorovna (Charlotte of Prussia), doc=116962 score=22.551273 shardIndex=0
+Document: Ogden Nash, doc=13873 score=22.486835 shardIndex=0
+Document: Vita Sackville-West, doc=67536 score=22.244442 shardIndex=0
+Document: La Belle Dame sans Merci, doc=70489 score=22.213297 shardIndex=0
+ 
+Clue: In this Finnish city the Lutheran Cathedral also known as Tuomiokirkko
+Category: CAPITAL CITY CHURCHES Alex Well give you the church You tell us the capital city in which it is located | Correct answer: Helsinki
+Total Results: 7578+ hits
+Document: Savonlinna, doc=13490 score=33.16163 shardIndex=0
+Document: Roseau, doc=19541 score=28.892757 shardIndex=0
+Document: Magdeburg, doc=10270 score=28.362951 shardIndex=0
+Document: Tampere, doc=18717 score=28.153894 shardIndex=0
+Document: Turku, doc=12456 score=27.100368 shardIndex=0
+Document: Suure-Jaani, doc=84258 score=26.242527 shardIndex=0
+Document: Porvoo, doc=15630 score=25.947027 shardIndex=0
+Document: Espoo, doc=1583 score=25.813564 shardIndex=0
+Document: Mikael Agricola, doc=16312 score=25.750391 shardIndex=0
+Document: Edessa, doc=74724 score=25.54522 shardIndex=0
+ 
+Clue: Milton Bradley games
+Category: NAME THE PARENT COMPANY | Correct answer: Hasbro
+Total Results: 4356+ hits
+Document: Axis & Allies, doc=62052 score=14.993374 shardIndex=0
+Document: Microvision, doc=10188 score=14.239862 shardIndex=0
+Document: Battleship (game), doc=82734 score=14.232338 shardIndex=0
+Document: Vectrex, doc=363 score=13.595424 shardIndex=0
+Document: Hasbro, doc=23194 score=13.217053 shardIndex=0
+Document: Snakes and Ladders, doc=8423 score=12.531732 shardIndex=0
+Document: Crayon, doc=36669 score=10.20521 shardIndex=0
+Document: Shawn Bradley, doc=70716 score=9.190256 shardIndex=0
+Document: Snake (video game), doc=55440 score=8.998556 shardIndex=0
+Document: Magnavox Odyssey, doc=38534 score=8.923471 shardIndex=0
+ 
+Clue: The Kentucky  Virginia resolutions were passed to protest these controversial 1798 acts of Congress
+Category: OLD YEARS RESOLUTIONS | Correct answer: The Alien and Sedition Acts
+Total Results: 4803+ hits
+Document: Kentucky and Virginia Resolutions, doc=293087 score=34.72815 shardIndex=0
+Document: Second Continental Congress, doc=41169 score=22.57459 shardIndex=0
+Document: Stamp Act 1765, doc=51704 score=20.448168 shardIndex=0
+Document: Memorial Day, doc=279026 score=20.414463 shardIndex=0
+Document: Richard Henry Lee, doc=8878 score=19.726849 shardIndex=0
+Document: Patrick Henry, doc=38153 score=19.493042 shardIndex=0
+Document: History of slavery in Indiana, doc=165523 score=19.209116 shardIndex=0
+Document: Copyright Act of 1790, doc=142142 score=18.653215 shardIndex=0
+Document: Compromise of 1850, doc=36268 score=18.427504 shardIndex=0
+Document: U.S. state, doc=215403 score=18.347767 shardIndex=0
+ 
+Clue: 1983 Beat It
+Category: 80s NO1 HITMAKERS | Correct answer: Michael Jackson
+Total Results: 3780+ hits
+Document: 80, doc=6965 score=8.337667 shardIndex=0
+Document: 1983, doc=6446 score=8.306471 shardIndex=0
+Document: Black Milk, doc=159577 score=7.5346966 shardIndex=0
+Document: Them Again, doc=115742 score=7.4061832 shardIndex=0
+Document: Fontana Records, doc=141153 score=7.404945 shardIndex=0
+Document: Fred Davis (snooker player), doc=165389 score=7.048913 shardIndex=0
+Document: Cliff Thorburn, doc=132893 score=6.9903574 shardIndex=0
+Document: Jimmy Somerville, doc=58851 score=6.760844 shardIndex=0
+Document: Allan Wells, doc=23247 score=6.498502 shardIndex=0
+Document: Mick Burke, doc=232265 score=6.48167 shardIndex=0
+ 
+Clue: In 2009 Sookie Stackhouse
+Category: GOLDEN GLOBE WINNERS | Correct answer: Anna Paquin
+Total Results: 2408+ hits
+Document: Anna Paquin, doc=70132 score=15.295277 shardIndex=0
+Document: True Blood, doc=217211 score=13.399551 shardIndex=0
+Document: Jimmy Harry, doc=229176 score=11.748915 shardIndex=0
+Document: Joan Plowright, doc=85961 score=11.24098 shardIndex=0
+Document: Miranda Richardson, doc=9780 score=10.604265 shardIndex=0
+Document: Geoffrey Rush, doc=44312 score=10.599439 shardIndex=0
+Document: Fred Astaire, doc=21406 score=10.594628 shardIndex=0
+Document: Olympia Dukakis, doc=96947 score=10.499343 shardIndex=0
+Document: Chaim Topol, doc=64534 score=10.228621 shardIndex=0
+Document: Warren Beatty, doc=17137 score=10.215818 shardIndex=0
+ 
+Clue: This member of the Nixon  Ford cabinets was born in Furth Germany in 1923
+Category: HISTORICAL HODGEPODGE | Correct answer: Henry Kissinger
+Total Results: 4445+ hits
+Document: William B. Saxbe, doc=46929 score=13.707758 shardIndex=0
+Document: Henry Kissinger, doc=37567 score=12.793605 shardIndex=0
+Document: Théophile Delcassé, doc=57475 score=11.792248 shardIndex=0
+Document: Hidejirō Nagata, doc=267966 score=11.747727 shardIndex=0
+Document: Frank B. Kellogg, doc=67312 score=11.435487 shardIndex=0
+Document: Museum of Jurassic Technology, doc=10012 score=11.01843 shardIndex=0
+Document: Richard Nixon, doc=7245 score=10.912615 shardIndex=0
+Document: Emil Wallber, doc=84339 score=10.809458 shardIndex=0
+Document: Helmut Sturm, doc=70826 score=10.695289 shardIndex=0
+Document: Nils Edén, doc=71419 score=10.5985155 shardIndex=0
+ 
+Clue: The High Kirk of St Giles where John Knox was minister
+Category: CAPITAL CITY CHURCHES Alex Well give you the church You tell us the capital city in which it is located | Correct answer: Edinburgh
+Total Results: 11289+ hits
+Document: John Knox, doc=4211 score=31.33877 shardIndex=0
+Document: Church of Scotland, doc=56978 score=28.140528 shardIndex=0
+Document: Roseau, doc=19541 score=25.833277 shardIndex=0
+Document: Stobo Kirk, doc=239693 score=25.307972 shardIndex=0
+Document: Queen's Hall, Edinburgh, doc=245866 score=25.291214 shardIndex=0
+Document: Carmyle, doc=146329 score=25.13803 shardIndex=0
+Document: Glasgow Cathedral, doc=34731 score=24.834295 shardIndex=0
+Document: Perth, Scotland, doc=64866 score=24.757889 shardIndex=0
+Document: John the Baptist, doc=278978 score=24.740192 shardIndex=0
+Document: Frogner, doc=78280 score=24.276142 shardIndex=0
+ 
+Clue: For the brief time he attended he was a rebel with a cause even landing a lead role in a 1950 stage production
+Category: UCLA CELEBRITY ALUMNI | Correct answer: James Dean
+Total Results: 12520+ hits
+Document: James Dean, doc=216443 score=21.492323 shardIndex=0
+Document: Richard Thomas (actor), doc=81884 score=18.81494 shardIndex=0
+Document: Grant Show, doc=138799 score=18.778652 shardIndex=0
+Document: Michael Crawford, doc=54786 score=18.458895 shardIndex=0
+Document: Alexis Denisof, doc=51811 score=18.341406 shardIndex=0
+Document: Paul Scofield, doc=18009 score=18.108875 shardIndex=0
+Document: Len Cariou, doc=132354 score=18.103365 shardIndex=0
+Document: Art Carney, doc=54851 score=17.787994 shardIndex=0
+Document: Guy Kawasaki, doc=81868 score=17.708153 shardIndex=0
+Document: Theodore Dwight Weld, doc=40789 score=17.694225 shardIndex=0
+ 
+Clue: FisherPrice toys
+Category: NAME THE PARENT COMPANY | Correct answer: Mattel
+Total Results: 3624+ hits
+Document: Learning Express Toys, doc=291829 score=10.087627 shardIndex=0
+Document: Tandem Productions, doc=118678 score=9.612419 shardIndex=0
+Document: Frog (models), doc=89426 score=9.495022 shardIndex=0
+Document: Circus World (store), doc=95616 score=9.275251 shardIndex=0
+Document: Little People, doc=96382 score=9.222378 shardIndex=0
+Document: Hasbro, doc=23194 score=9.170219 shardIndex=0
+Document: Baby Bach, doc=106973 score=9.017042 shardIndex=0
+Document: Revell, doc=134130 score=8.901751 shardIndex=0
+Document: Happy Fun Ball, doc=70253 score=8.784136 shardIndex=0
+Document: Cabbage Patch Kids, doc=21432 score=8.656819 shardIndex=0
+ 
+Clue: In a 1959 American kitchen exhibit in Moscow he told Khrushchev In America we like to make life easier for women
+Category: HISTORICAL QUOTES | Correct answer: Richard Nixon|Nixon
+Total Results: 12267+ hits
+Document: American National Exhibition, doc=227689 score=23.58953 shardIndex=0
+Document: Cuban missile crisis, doc=63920 score=19.93996 shardIndex=0
+Document: Commack, New York, doc=227690 score=16.765343 shardIndex=0
+Document: Yuri Zhukov (journalist), doc=123499 score=16.741123 shardIndex=0
+Document: Robert Frank, doc=41017 score=16.728174 shardIndex=0
+Document: Vittorio De Sica, doc=89 score=16.222649 shardIndex=0
+Document: Ken Russell, doc=54498 score=15.752523 shardIndex=0
+Document: Stanley Kramer, doc=24798 score=15.737677 shardIndex=0
+Document: Ray Singleton, doc=266358 score=15.655959 shardIndex=0
+Document: Esfir Shub, doc=90307 score=15.612782 shardIndex=0
+ 
+Clue: One of his Tales of a Wayside Inn begins Listen my children and you shall hear of the midnight ride of Paul Revere
+Category: POETS  POETRY | Correct answer: Henry Wadsworth Longfellow
+Total Results: 6601+ hits
+Document: Baxter Black, doc=26444 score=22.05477 shardIndex=0
+Document: Acrostic, doc=79208 score=21.664534 shardIndex=0
+Document: Cornelia Hoogland, doc=24547 score=21.237837 shardIndex=0
+Document: Henry Wadsworth Longfellow, doc=22371 score=20.631248 shardIndex=0
+Document: Alliteration, doc=20434 score=20.299803 shardIndex=0
+Document: William Dawes, doc=97066 score=19.106432 shardIndex=0
+Document: John Masefield, doc=279162 score=18.156563 shardIndex=0
+Document: Language of flowers, doc=49723 score=18.116154 shardIndex=0
+Document: Paul Revere, doc=15739 score=18.09364 shardIndex=0
+Document: The Little Mermaid, doc=87179 score=17.705576 shardIndex=0
+ 
+Clue: This bestseller about problems on the McCainPalin ticket became an HBO movie with Julianne Moore
+Category: NOTES FROM THE CAMPAIGN TRAIL | Correct answer: Game Change
+Total Results: 9736+ hits
+Document: Candace Bushnell, doc=76718 score=12.925173 shardIndex=0
+Document: John Frankenheimer, doc=279204 score=12.85768 shardIndex=0
+Document: Hannibal (film), doc=130848 score=12.672986 shardIndex=0
+Document: Game Change, doc=252683 score=12.5905 shardIndex=0
+Document: Operation Simoom, doc=153402 score=12.4751 shardIndex=0
+Document: Michael Moore, doc=10976 score=12.452753 shardIndex=0
+Document: The Life of Emile Zola, doc=1009 score=12.287217 shardIndex=0
+Document: Safe (1995 film), doc=120661 score=11.678404 shardIndex=0
+Document: Project Greenlight, doc=45307 score=11.610718 shardIndex=0
+Document: Pay-per-view, doc=53733 score=11.565701 shardIndex=0
+ 
+Clue: A 2part episode of JAG introduced this Mark Harmon drama
+Category: THAT 20AUGHTS SHOW | Correct answer: NCIS
+Total Results: 4764+ hits
+Document: Bozo the Clown, doc=97426 score=11.777628 shardIndex=0
+Document: Rocky Carroll, doc=89717 score=11.45269 shardIndex=0
+Document: The Defenders (1961 TV series), doc=46683 score=11.125966 shardIndex=0
+Document: Mill Valley High School, doc=111663 score=10.950379 shardIndex=0
+Document: Japanese television drama, doc=33931 score=10.582794 shardIndex=0
+Document: Alicia Coppola, doc=139067 score=10.475449 shardIndex=0
+Document: Arthur Storey and the Department of Historical Correction, doc=202310 score=10.386369 shardIndex=0
+Document: Doctors (soap opera), doc=63357 score=10.357524 shardIndex=0
+Document: Mona El-Saghir, doc=240972 score=10.16866 shardIndex=0
+Document: The New Loretta Young Show, doc=228909 score=10.150423 shardIndex=0
+ 
+Clue: This port is the southernmost of South Africas 3 capitals
+Category: AFRICAN CITIES | Correct answer: Cape Town
+Total Results: 3751+ hits
+Document: Urbanization in Africa, doc=137275 score=15.851114 shardIndex=0
+Document: Cape Town, doc=15339 score=15.298421 shardIndex=0
+Document: Malabo, doc=12637 score=14.439981 shardIndex=0
+Document: Dakar, doc=1038 score=14.079033 shardIndex=0
+Document: Portuguese Mozambique, doc=35998 score=13.893361 shardIndex=0
+Document: Port Elizabeth Airport, doc=76042 score=13.853671 shardIndex=0
+Document: Cape Coast, doc=97930 score=13.76281 shardIndex=0
+Document: Transport in Lesotho, doc=293434 score=13.691093 shardIndex=0
+Document: Monrovia, doc=74580 score=13.532507 shardIndex=0
+Document: Southern Africa, doc=28040 score=13.52009 shardIndex=0
+ 
+Clue: Keats was quoting this Edmund Spenser poem when he told Shelley to load every rift of your subject with ore
+Category: THE QUOTABLE KEATS | Correct answer: The Faerie Queene
+Total Results: 4841+ hits
+Document: John Keats, doc=279281 score=30.352808 shardIndex=0
+Document: Ode, doc=13688 score=25.195005 shardIndex=0
+Document: Edmund Spenser, doc=85262 score=22.909616 shardIndex=0
+Document: Ozymandias, doc=13752 score=22.639654 shardIndex=0
+Document: Wilfred Owen, doc=36726 score=19.834095 shardIndex=0
+Document: La Belle Dame sans Merci, doc=70489 score=19.58198 shardIndex=0
+Document: Hyperion (poem), doc=69886 score=18.331728 shardIndex=0
+Document: The Faerie Queene, doc=12048 score=17.816904 shardIndex=0
+Document: I Hope You Dance (song), doc=94507 score=17.326067 shardIndex=0
+Document: Edmund Blunden, doc=13638 score=16.7546 shardIndex=0
+ 
+Clue: In an 1819 letter Keats wrote that this lord  poet cuts a figure but he is not figurative
+Category: THE QUOTABLE KEATS | Correct answer: Lord Byron
+Total Results: 4633+ hits
+Document: John Keats, doc=279281 score=29.00397 shardIndex=0
+Document: La Belle Dame sans Merci, doc=70489 score=25.789242 shardIndex=0
+Document: Hyperion (poem), doc=69886 score=21.143604 shardIndex=0
+Document: Adonis, doc=38546 score=18.852598 shardIndex=0
+Document: Blank verse, doc=25190 score=17.25523 shardIndex=0
+Document: Richard Monckton Milnes, 1st Baron Houghton, doc=67201 score=16.933424 shardIndex=0
+Document: Edmund Spenser, doc=85262 score=16.91348 shardIndex=0
+Document: Wilson Tuckey, doc=132500 score=16.345726 shardIndex=0
+Document: Didymus Chalcenterus, doc=39452 score=16.202305 shardIndex=0
+Document: Robert Keate, doc=207008 score=15.823523 shardIndex=0
+ 
+Clue: This clear Greek liqueur is quite potent so its usually mixed with water which turns it white  cloudy
+Category: GREEK FOOD  DRINK | Correct answer: Ouzo
+Total Results: 7079+ hits
+Document: Ouzo, doc=23509 score=32.081116 shardIndex=0
+Document: Liqueur, doc=294162 score=25.46268 shardIndex=0
+Document: List of coffee beverages, doc=226865 score=23.273325 shardIndex=0
+Document: Anise, doc=18525 score=23.22742 shardIndex=0
+Document: Rakı, doc=73930 score=22.997248 shardIndex=0
+Document: Sicilian cuisine, doc=1497 score=22.402029 shardIndex=0
+Document: Feta, doc=71018 score=21.901035 shardIndex=0
+Document: Souvlaki, doc=66848 score=20.91306 shardIndex=0
+Document: Rose water, doc=23014 score=20.176981 shardIndex=0
+Document: Midas, doc=10253 score=20.1452 shardIndex=0
+ 
+Clue: Feb 1 National Freedom Day is the date in 1865 when a resolution sent the states an amendment ending this
+Category: OLD YEARS RESOLUTIONS | Correct answer: Slavery|Slavery in the United States
+Total Results: 8835+ hits
+Document: Kentucky and Virginia Resolutions, doc=293087 score=21.097622 shardIndex=0
+Document: Pledge of Allegiance, doc=65541 score=21.064482 shardIndex=0
+Document: Emancipation Proclamation, doc=85254 score=20.601698 shardIndex=0
+Document: Henry S. Foote, doc=40941 score=20.575893 shardIndex=0
+Document: International Telecommunication Union, doc=173975 score=20.110355 shardIndex=0
+Document: Lambeth Conferences, doc=50894 score=19.941294 shardIndex=0
+Document: Equal Rights Amendment, doc=65583 score=19.777401 shardIndex=0
+Document: Quit India Movement, doc=34644 score=19.171768 shardIndex=0
+Document: Joseph Gurney Cannon, doc=279074 score=18.953163 shardIndex=0
+Document: Israeli Declaration of Independence, doc=173818 score=18.944656 shardIndex=0
+ 
+Clue: This person is the queens representative in Canada currently the office is held by David Johnston
+Category: RANKS  TITLES | Correct answer: Governor General of Canada
+Total Results: 8881+ hits
+Document: Governor General of Canada, doc=8246 score=17.300756 shardIndex=0
+Document: Order of Military Merit (Canada), doc=184958 score=15.746306 shardIndex=0
+Document: 100 Huntley Street, doc=48896 score=14.783126 shardIndex=0
+Document: Canada Act 1982, doc=20910 score=14.73391 shardIndex=0
+Document: List of current Canadian first ministers, doc=34903 score=14.20405 shardIndex=0
+Document: Parliament of Canada, doc=57705 score=13.890501 shardIndex=0
+Document: The Crown, doc=97387 score=13.861447 shardIndex=0
+Document: Commonwealth Heads of Government Meeting, doc=64213 score=13.726269 shardIndex=0
+Document: British Royal Family, doc=36734 score=13.532515 shardIndex=0
+Document: Oliver Mowat, doc=72182 score=13.515318 shardIndex=0
+ 
+Clue: He earned the fifth Beatle nickname by producing all of the Beatles albums
+Category: TIN MEN | Correct answer: George Martin
+Total Results: 2912+ hits
+Document: Fifth Beatle, doc=19923 score=21.314444 shardIndex=0
+Document: Ringo Starr, doc=7512 score=19.963736 shardIndex=0
+Document: George Martin, doc=38460 score=19.3831 shardIndex=0
+Document: Love (The Beatles album), doc=152434 score=18.126984 shardIndex=0
+Document: The Beatles (album), doc=11627 score=18.00549 shardIndex=0
+Document: Help! (album), doc=11335 score=17.975983 shardIndex=0
+Document: Twist and Shout, doc=139504 score=17.906897 shardIndex=0
+Document: Revolver (Beatles album), doc=11368 score=17.884827 shardIndex=0
+Document: 1 (The Beatles album), doc=54704 score=17.768124 shardIndex=0
+Document: Rubber Soul, doc=11353 score=17.759485 shardIndex=0
+ 
+Clue: Early in their careers Mark Twain  Bret Harte wrote pieces for this California citys Chronicle
+Category: NEWSPAPERS | Correct answer: San Francisco
+Total Results: 8827+ hits
+Document: Bret Harte, doc=16512 score=25.479027 shardIndex=0
+Document: Humboldt Bay, doc=210940 score=18.01813 shardIndex=0
+Document: Joaquin Miller, doc=44017 score=17.410418 shardIndex=0
+Document: Dave Meltzer, doc=120499 score=16.4799 shardIndex=0
+Document: Bret Harte Union High School, doc=246709 score=15.109164 shardIndex=0
+Document: Lost Cement Mine, doc=200321 score=14.067774 shardIndex=0
+Document: Ken Howard, doc=144285 score=14.0111885 shardIndex=0
+Document: Kevin Hart, doc=94162 score=13.236347 shardIndex=0
+Document: A Connecticut Yankee (musical), doc=143527 score=12.997143 shardIndex=0
+Document: George Carlin, doc=51510 score=12.372169 shardIndex=0
+ 
+Clue: Large specimens of this marsupial can leap over barriers 6 feet high
+Category: POTPOURRI | Correct answer: Kangaroo
+Total Results: 8258+ hits
+Document: Kangaroo, doc=292884 score=13.854087 shardIndex=0
+Document: Borhyaenidae, doc=113055 score=13.343983 shardIndex=0
+Document: Fauna of Australia, doc=15462 score=13.119458 shardIndex=0
+Document: Broad-faced potoroo, doc=24933 score=12.30839 shardIndex=0
+Document: Thames Barrier, doc=38268 score=12.024099 shardIndex=0
+Document: Koala, doc=292956 score=12.0075865 shardIndex=0
+Document: Tammar wallaby, doc=82300 score=11.839451 shardIndex=0
+Document: Python reticulatus, doc=58505 score=11.7443695 shardIndex=0
+Document: Wallaby, doc=59119 score=11.540491 shardIndex=0
+Document: Marsupial mole, doc=80335 score=11.408702 shardIndex=0
+ 
+Clue: Because its cured  stored in brine this crumbly white cheese made from sheeps milk is often referred to as pickled cheese
+Category: GREEK FOOD  DRINK | Correct answer: Feta
+Total Results: 2437+ hits
+Document: Feta, doc=71018 score=46.190018 shardIndex=0
+Document: Norwegian cuisine, doc=147130 score=35.672215 shardIndex=0
+Document: English cuisine, doc=38486 score=34.75842 shardIndex=0
+Document: Pastry|pastries, doc=18687 score=33.32566 shardIndex=0
+Document: Quark (dairy product), doc=47932 score=32.02055 shardIndex=0
+Document: Delicatessen, doc=98317 score=30.294651 shardIndex=0
+Document: Serbian cuisine, doc=118416 score=29.755112 shardIndex=0
+Document: Pecorino, doc=71157 score=29.707277 shardIndex=0
+Document: Mozzarella, doc=10159 score=29.334148 shardIndex=0
+Document: Casu marzu, doc=1313 score=28.95229 shardIndex=0
+ 
+Clue: 1927 Gene Tunney takes a long count in the squared circle but rises to defeat this Manassa Mauler Howzabout that
+Category: 1920s NEWS FLASH | Correct answer: Jack Dempsey
+Total Results: 10371+ hits
+Document: Jack Dempsey, doc=59983 score=28.7184 shardIndex=0
+Document: New Jersey Route 37, doc=53145 score=16.353958 shardIndex=0
+Document: Max Schmeling, doc=63623 score=13.836269 shardIndex=0
+Document: Vehicle registration plates of Italy, doc=136602 score=12.969191 shardIndex=0
+Document: Lou Stillman, doc=77155 score=12.776445 shardIndex=0
+Document: Dan Minor, doc=272191 score=12.611831 shardIndex=0
+Document: Edna Ferber, doc=4234 score=12.519211 shardIndex=0
+Document: Alexander Kolowrat, doc=170603 score=12.186956 shardIndex=0
+Document: Byrds (album), doc=144437 score=12.131125 shardIndex=0
+Document: Duchy of Carinthia, doc=11243 score=12.007305 shardIndex=0
+ 
+Clue: Italian for leader it was especially applied to Benito Mussolini
+Category: RANKS  TITLES | Correct answer: Duce
+Total Results: 3032+ hits
+Document: Duce, doc=40192 score=19.79323 shardIndex=0
+Document: Romano Mussolini, doc=9065 score=16.694527 shardIndex=0
+Document: Fascist and anti-Fascist violence in Italy (1919–26), doc=228571 score=16.563896 shardIndex=0
+Document: Alessandra Mussolini, doc=51729 score=16.31945 shardIndex=0
+Document: Clara Petacci, doc=64712 score=15.549756 shardIndex=0
+Document: Predappio, doc=109606 score=15.498831 shardIndex=0
+Document: Fascism in Europe, doc=200455 score=15.48603 shardIndex=0
+Document: Agostino Lanzillo, doc=129927 score=15.375548 shardIndex=0
+Document: Esercito Nazionale Repubblicano, doc=200160 score=14.673937 shardIndex=0
+Document: Silvio Berlusconi, doc=9519 score=14.41487 shardIndex=0
+ 
+Clue: The Kalamazoo Institute of Arts
+Category: STATE OF THE ART MUSEUM Alex Well give you the museum You give us the state | Correct answer: Michigan
+Total Results: 10077+ hits
+Document: Michael Bierut, doc=127081 score=22.610882 shardIndex=0
+Document: Portage Northern High School, doc=115758 score=19.900084 shardIndex=0
+Document: Red Jacket, doc=26998 score=19.858385 shardIndex=0
+Document: Remodernism, doc=18110 score=19.800665 shardIndex=0
+Document: Museum, doc=4496 score=19.44909 shardIndex=0
+Document: Terre Haute, Indiana, doc=53059 score=19.41545 shardIndex=0
+Document: Museum of Science and Industry (Chicago), doc=15722 score=19.393044 shardIndex=0
+Document: Devon Dikeou, doc=247868 score=19.37987 shardIndex=0
+Document: Art museum, doc=22238 score=19.35795 shardIndex=0
+Document: Skowhegan School of Painting and Sculpture, doc=126983 score=19.32535 shardIndex=0
+ 
+Clue: The Sun Valley Center for the Arts
+Category: STATE OF THE ART MUSEUM Alex Well give you the museum You give us the state | Correct answer: Idaho
+Total Results: 8867+ hits
+Document: Red Jacket, doc=26998 score=22.255314 shardIndex=0
+Document: Terre Haute, Indiana, doc=53059 score=21.491339 shardIndex=0
+Document: Michael Bierut, doc=127081 score=20.640882 shardIndex=0
+Document: Xochicalco, doc=96239 score=20.608988 shardIndex=0
+Document: Affandi, doc=121589 score=20.323982 shardIndex=0
+Document: Museum of Contemporary Art, Chicago, doc=45781 score=20.277525 shardIndex=0
+Document: Julia Davis Park, doc=200573 score=20.240274 shardIndex=0
+Document: The Art of War, doc=22083 score=20.000534 shardIndex=0
+Document: Bhavacakra, doc=724 score=19.910227 shardIndex=0
+Document: Edward Hopper, doc=21709 score=19.905651 shardIndex=0
+ 
+Clue: You cant mention this shortstop without mentioning his doubleplay associates Evers  Chance
+Category: TIN MEN | Correct answer: Joe Tinker
+Total Results: 9956+ hits
+Document: Hughie Jennings, doc=141821 score=15.279057 shardIndex=0
+Document: The Book of Five Rings, doc=44111 score=13.986857 shardIndex=0
+Document: Joe Tinker, doc=47542 score=13.336237 shardIndex=0
+Document: Triple play, doc=87000 score=12.8052435 shardIndex=0
+Document: Belial, doc=66530 score=12.623456 shardIndex=0
+Document: Willie Horton, doc=27241 score=12.545098 shardIndex=0
+Document: Nicholas Tooley, doc=154124 score=12.44073 shardIndex=0
+Document: Azazel, doc=68308 score=12.301065 shardIndex=0
+Document: Zerubbabel, doc=18703 score=12.18184 shardIndex=0
+Document: The Ragged Trousered Philanthropists (play), doc=275128 score=12.165235 shardIndex=0
+ 
+Clue: In 1840 Horace Greeley began publishing The Log Cabin a weekly campaign paper in support of this Whig candidate
+Category: NEWSPAPERS | Correct answer: William Henry Harrison
+Total Results: 6467+ hits
+Document: Horace Greeley, doc=44301 score=38.497612 shardIndex=0
+Document: Anti-Masonic Party, doc=3 score=19.941103 shardIndex=0
+Document: Schuyler Colfax, doc=58858 score=18.222183 shardIndex=0
+Document: William Henry Harrison, doc=719 score=17.785639 shardIndex=0
+Document: The Day (New London), doc=220372 score=17.51164 shardIndex=0
+Document: William Lyon Mackenzie, doc=72233 score=15.705337 shardIndex=0
+Document: Sun-Sentinel, doc=138996 score=14.805892 shardIndex=0
+Document: Austin Blair, doc=129914 score=14.728031 shardIndex=0
+Document: Thomas A. Hendricks, doc=58874 score=14.697299 shardIndex=0
+Document: The Telegraph (Nashua), doc=69296 score=14.473451 shardIndex=0
+ 
+Clue: Pierre Cauchon Bishop of Beauvais presided over the trial of this woman who went up in smoke May 30 1431
+Category: IM BURNIN FOR YOU | Correct answer: Joan of Arc|Jeanne d'Arc
+Total Results: 13638+ hits
+Document: Roman Catholic Diocese of Beauvais, doc=147393 score=23.303747 shardIndex=0
+Document: Joan of Arc, doc=279317 score=20.749424 shardIndex=0
+Document: Medieval Inquisition, doc=9937 score=18.667152 shardIndex=0
+Document: Beauvais, doc=23910 score=17.083557 shardIndex=0
+Document: Mount Pelée, doc=84151 score=15.483877 shardIndex=0
+Document: Joseph Kabila, doc=98174 score=14.483 shardIndex=0
+Document: Jean Houymet, doc=180112 score=14.247942 shardIndex=0
+Document: Paul Touvier, doc=59486 score=14.084329 shardIndex=0
+Document: Wilfried Louisy-Daniel, doc=264586 score=13.637423 shardIndex=0
+Document: Herrin massacre, doc=147103 score=13.588584 shardIndex=0
+ 
+Clue: This Wisconsin city claims to have built the USAs only granite dome
+Category: COMPLETE DOMINATIONAlex Not domination | Correct answer: Madison
+Total Results: 9355+ hits
+Document: Saint Isaac's Cathedral, doc=34841 score=15.026045 shardIndex=0
+Document: El Capitolio, doc=109056 score=14.438063 shardIndex=0
+Document: Yosemite Valley, doc=15527 score=13.836501 shardIndex=0
+Document: Volkshalle, doc=121294 score=13.344568 shardIndex=0
+Document: Frank Zeidler, doc=84349 score=13.217664 shardIndex=0
+Document: Les Invalides, doc=17012 score=12.721949 shardIndex=0
+Document: Madison, Wisconsin, doc=19926 score=12.532381 shardIndex=0
+Document: Al-Aqsa Mosque, doc=22039 score=12.3042 shardIndex=0
+Document: St Paul's Cathedral, doc=54111 score=12.2508545 shardIndex=0
+Document: Temple Mount, doc=22015 score=12.240391 shardIndex=0
+ 
+Clue: This Georgia paper is known as the AJC for short
+Category: NEWSPAPERS | Correct answer: The Atlanta Journal-Constitution
+Total Results: 7290+ hits
+Document: The Atlanta Journal-Constitution, doc=131007 score=17.650576 shardIndex=0
+Document: Stylish Century, doc=229175 score=10.008258 shardIndex=0
+Document: Rome News-Tribune, doc=188470 score=9.797539 shardIndex=0
+Document: The Five Orange Pips, doc=129916 score=9.563351 shardIndex=0
+Document: Bjørn Lomborg, doc=2136 score=8.806875 shardIndex=0
+Document: Interstate 285, doc=48478 score=8.441274 shardIndex=0
+Document: Wallace Carlson, doc=251200 score=8.12562 shardIndex=0
+Document: International New York Times, doc=55207 score=8.034605 shardIndex=0
+Document: Daily Worker, doc=131975 score=7.9639187 shardIndex=0
+Document: Sketches by Boz, doc=40845 score=7.959399 shardIndex=0
+ 
+Clue: Wooden 2story verandas in this Liberian capital are an architectural link to the US south
+Category: AFRICAN CITIES | Correct answer: Monrovia
+Total Results: 6305+ hits
+Document: Monrovia, doc=74580 score=16.582905 shardIndex=0
+Document: Americo-Liberian, doc=83476 score=15.366987 shardIndex=0
+Document: Yablanski House, doc=220254 score=14.750813 shardIndex=0
+Document: Octagon house, doc=48244 score=13.11275 shardIndex=0
+Document: Liberia, doc=293437 score=13.092632 shardIndex=0
+Document: Prince Johnson, doc=70722 score=12.890287 shardIndex=0
+Document: Economy of Liberia, doc=293442 score=12.855521 shardIndex=0
+Document: Glenview Mansion, doc=263881 score=12.850769 shardIndex=0
+Document: History of Liberia, doc=293438 score=12.747396 shardIndex=0
+Document: Bozhentsi, doc=121861 score=12.521284 shardIndex=0
+ 
+Clue: This New Orleans venue reopened Sept 25 2006
+Category: COMPLETE DOMINATIONAlex Not domination | Correct answer: Mercedes-Benz Superdome|The Superdome
+Total Results: 8125+ hits
+Document: Mercedes-Benz Superdome, doc=132830 score=14.8166895 shardIndex=0
+Document: Tameside Hippodrome, doc=123977 score=13.249168 shardIndex=0
+Document: Wesley Barrow Stadium, doc=284596 score=13.055385 shardIndex=0
+Document: Jimmy Walter, doc=136017 score=13.054033 shardIndex=0
+Document: Snug Harbor (jazz club), doc=187023 score=13.05183 shardIndex=0
+Document: Saenger Theatre (New Orleans, Louisiana), doc=88548 score=12.859682 shardIndex=0
+Document: Stade Mohamed V, doc=118483 score=12.09831 shardIndex=0
+Document: The Brewhouse Theatre & Arts Centre, doc=255375 score=11.959897 shardIndex=0
+Document: Xavier University of Louisiana, doc=139904 score=11.951809 shardIndex=0
+Document: Allen Toussaint, doc=48212 score=11.600346 shardIndex=0
+ 
+Clue: The Hunt for Red October he went more comedic as Jack Donaghy on 30 Rock
+Category: HE PLAYED A GUY NAMED JACK RYAN IN | Correct answer: Alec Baldwin
+Total Results: 9452+ hits
+Document: 30 Rock (season 6), doc=257472 score=22.118666 shardIndex=0
+Document: Plunkett Donaghy, doc=149196 score=21.203135 shardIndex=0
+Document: Alec Baldwin, doc=56509 score=20.67878 shardIndex=0
+Document: Candy Barr, doc=120167 score=19.556341 shardIndex=0
+Document: Cleveland Panthers, doc=198460 score=19.29422 shardIndex=0
+Document: Wolfman Jack, doc=38051 score=19.045536 shardIndex=0
+Document: Red Hot Chili Peppers, doc=9112 score=18.736757 shardIndex=0
+Document: Australian Idol (season 1), doc=191770 score=18.599606 shardIndex=0
+Document: William Farren, doc=80144 score=18.496845 shardIndex=0
+Document: Jack Nicholson, doc=215316 score=18.46733 shardIndex=0
+ 
+Clue: Rita Dove titled a collection of poems On the Bus with this woman
+Category: AFRICANAMERICAN WOMEN | Correct answer: Rosa Parks
+Total Results: 4270+ hits
+Document: Louise Erdrich, doc=293688 score=11.82168 shardIndex=0
+Document: Stella Benson, doc=122513 score=11.443643 shardIndex=0
+Document: Heo Nanseolheon, doc=229946 score=11.050639 shardIndex=0
+Document: Elizabeth Barrett Browning, doc=85325 score=10.952518 shardIndex=0
+Document: Zennor, doc=996 score=10.8423815 shardIndex=0
+Document: Will Success Spoil Rock Hunter?, doc=38069 score=10.758726 shardIndex=0
+Document: Edna St. Vincent Millay, doc=85503 score=10.75266 shardIndex=0
+Document: Elizabeth Siddal, doc=66725 score=10.395605 shardIndex=0
+Document: Maria Rita Lorenzetti, doc=165045 score=10.311704 shardIndex=0
+Document: Leda and the Swan, doc=294021 score=10.269609 shardIndex=0
+ 
+Clue: Patriot Games hes had other iconic roles in space  underground
+Category: HE PLAYED A GUY NAMED JACK RYAN IN | Correct answer: Harrison Ford
+Total Results: 7870+ hits
+Document: Phil LaMarr, doc=25209 score=19.641348 shardIndex=0
+Document: Raiden (Metal Gear), doc=139968 score=19.157396 shardIndex=0
+Document: Bill Mumy, doc=2045 score=18.27116 shardIndex=0
+Document: Rolento, doc=118294 score=18.253992 shardIndex=0
+Document: Armin Shimerman, doc=24907 score=17.803743 shardIndex=0
+Document: Peter Kenny, doc=264391 score=17.791843 shardIndex=0
+Document: Adam West, doc=71160 score=17.648714 shardIndex=0
+Document: Harrison Ford, doc=895 score=17.078592 shardIndex=0
+Document: Nick Tate, doc=23880 score=16.814032 shardIndex=0
+Document: Ryan Stiles, doc=59359 score=16.38162 shardIndex=0
+ 
+Clue: This sacred structure dates from the late 600s AD
+Category: COMPLETE DOMINATIONAlex Not domination | Correct answer: Dome of the Rock
+Total Results: 9595+ hits
+Document: Uaxactun, doc=68351 score=12.298699 shardIndex=0
+Document: Sacred Heart Catholic Church (McCartyville, Ohio), doc=262851 score=11.895307 shardIndex=0
+Document: Manbij, doc=59715 score=11.820446 shardIndex=0
+Document: Chichen Itza, doc=215382 score=11.521145 shardIndex=0
+Document: Kangla Palace, doc=130618 score=11.1451645 shardIndex=0
+Document: Dos Pilas, doc=58201 score=10.798718 shardIndex=0
+Document: Church of St. Dismas, the Good Thief, doc=251975 score=10.773047 shardIndex=0
+Document: Jaguars in Mesoamerican cultures, doc=141519 score=10.74808 shardIndex=0
+Document: Anuradhapura, doc=74967 score=10.4091 shardIndex=0
+Document: Classical antiquity, doc=82920 score=10.32628 shardIndex=0
+ 
+Clue: 1988 Man In The Mirror
+Category: 80s NO1 HITMAKERS | Correct answer: Michael Jackson
+Total Results: 7186+ hits
+Document: 80, doc=6965 score=8.337667 shardIndex=0
+Document: 1988, doc=6355 score=8.283199 shardIndex=0
+Document: Injustice Gang, doc=137943 score=7.284401 shardIndex=0
+Document: Squeegee man, doc=44698 score=6.743766 shardIndex=0
+Document: Arthur Porges, doc=96360 score=6.646339 shardIndex=0
+Document: Billboard Hot 100, doc=22793 score=6.552067 shardIndex=0
+Document: My Grandparents Had a Hotel, doc=215428 score=6.4424057 shardIndex=0
+Document: The Crystal Palace (novel), doc=90252 score=6.3613815 shardIndex=0
+Document: All You Zombies, doc=65719 score=6.335289 shardIndex=0
+Document: Locke the Superman, doc=114031 score=6.294473 shardIndex=0
+ 
+Clue: Matthias Church or Matyas Templom where Franz Joseph was crowned in 1867
+Category: CAPITAL CITY CHURCHES Alex Well give you the church You tell us the capital city in which it is located | Correct answer: Budapest
+Total Results: 9385+ hits
+Document: Saint Matthias, doc=3878 score=26.8514 shardIndex=0
+Document: Baden bei Wien, doc=58202 score=26.254492 shardIndex=0
+Document: Corleone, doc=1496 score=25.737597 shardIndex=0
+Document: History of Buda Castle, doc=101229 score=25.4328 shardIndex=0
+Document: Roseau, doc=19541 score=25.008736 shardIndex=0
+Document: Votive Church, Vienna, doc=143811 score=24.852255 shardIndex=0
+Document: Magdeburg, doc=10270 score=24.393793 shardIndex=0
+Document: Edessa, doc=74724 score=24.31157 shardIndex=0
+Document: Helsingør, doc=85140 score=23.791183 shardIndex=0
+Document: Znojmo, doc=73656 score=23.72082 shardIndex=0
+ 
+Clue: Attending UCLA in the 60s he was no Meathead he just played one later on television
+Category: UCLA CELEBRITY ALUMNI | Correct answer: Rob Reiner
+Total Results: 6625+ hits
+Document: Rob Reiner, doc=8857 score=23.26253 shardIndex=0
+Document: Ron Pitts, doc=93505 score=21.696135 shardIndex=0
+Document: Kareem Abdul-Jabbar, doc=279721 score=21.328674 shardIndex=0
+Document: Animal Crackers (film), doc=1891 score=20.857098 shardIndex=0
+Document: Gary LeRoi Gray, doc=27106 score=19.875921 shardIndex=0
+Document: University of California, Los Angeles, doc=7953 score=19.761974 shardIndex=0
+Document: Jackie Robinson, doc=279064 score=19.704367 shardIndex=0
+Document: Jason Bell (American football), doc=160698 score=19.349497 shardIndex=0
+Document: Raymond Beegle, doc=253393 score=19.287146 shardIndex=0
+Document: Phil Austin, doc=12506 score=18.947874 shardIndex=0
+ 
+Clue: Kinch Carter  LeBeau were all residents of Stalag 13 on this TV show
+Category: THE RESIDENTS | Correct answer: Hogan's Heroes
+Total Results: 9446+ hits
+Document: Hogan's Heroes, doc=63499 score=26.360886 shardIndex=0
+Document: John Carter (ER), doc=44665 score=16.170353 shardIndex=0
+Document: Spin City, doc=84424 score=12.342602 shardIndex=0
+Document: Episode Six, doc=33470 score=12.2052555 shardIndex=0
+Document: Peshtigo, Wisconsin, doc=141791 score=12.043874 shardIndex=0
+Document: Gary Burghoff, doc=59265 score=11.834722 shardIndex=0
+Document: Whose Line Is It Anyway?, doc=11500 score=11.49721 shardIndex=0
+Document: Libby Zion Law, doc=148631 score=10.983987 shardIndex=0
+Document: Janet Biggs, doc=187719 score=10.93932 shardIndex=0
+Document: The Contender (TV series), doc=132213 score=10.872597 shardIndex=0
+ 
+Clue: News flash This lessthanyappy pappy is sixth veep to be nations top dog after chief takes deep sleep
+Category: 1920s NEWS FLASH | Correct answer: Calvin Coolidge
+Total Results: 10965+ hits
+Document: Ashlyn Harris, doc=198507 score=15.605724 shardIndex=0
+Document: Kaley Fountain, doc=251186 score=15.421662 shardIndex=0
+Document: Tom Gordon, doc=134343 score=15.221831 shardIndex=0
+Document: Harold Eugene Edgerton, doc=173660 score=15.142149 shardIndex=0
+Document: Kid Flash, doc=138890 score=14.829969 shardIndex=0
+Document: Super Friends, doc=87407 score=14.68701 shardIndex=0
+Document: IBM Deep Thunder, doc=119798 score=14.609287 shardIndex=0
+Document: Matt Kalil, doc=217667 score=14.546762 shardIndex=0
+Document: Slashdot effect, doc=218268 score=14.392956 shardIndex=0
+Document: The First Journey (Alternamorphs), doc=149810 score=14.195414 shardIndex=0
+ 
+Clue: In 2001 The president of the United States on television
+Category: GOLDEN GLOBE WINNERS | Correct answer: Martin Sheen
+Total Results: 3644+ hits
+Document: Geoffrey Rush, doc=44312 score=15.302985 shardIndex=0
+Document: Jim Broadbent, doc=77993 score=15.019378 shardIndex=0
+Document: Olympia Dukakis, doc=96947 score=14.968522 shardIndex=0
+Document: Helen Hunt, doc=1285 score=14.163956 shardIndex=0
+Document: James Whitmore, doc=54865 score=14.035689 shardIndex=0
+Document: Joan Plowright, doc=85961 score=14.008858 shardIndex=0
+Document: Warren Beatty, doc=17137 score=13.900456 shardIndex=0
+Document: Edward James Olmos, doc=43961 score=13.796011 shardIndex=0
+Document: Glenn Close, doc=1213 score=13.658297 shardIndex=0
+Document: Richard Dreyfuss, doc=52017 score=13.569252 shardIndex=0
+ 
+Clue: 1989 Miss You Much
+Category: 80s NO1 HITMAKERS | Correct answer: Janet Jackson
+Total Results: 8667+ hits
+Document: I Love the '80s Strikes Back, doc=97631 score=12.257734 shardIndex=0
+Document: I Love the '80s (U.S. TV series), doc=72432 score=9.520394 shardIndex=0
+Document: Jean Burns, doc=159598 score=8.923592 shardIndex=0
+Document: 80, doc=6965 score=8.337667 shardIndex=0
+Document: 1989, doc=6536 score=8.205897 shardIndex=0
+Document: List of IBM products, doc=58264 score=8.061743 shardIndex=0
+Document: Them Again, doc=115742 score=7.650984 shardIndex=0
+Document: Erin Holland, doc=288633 score=7.6243567 shardIndex=0
+Document: Mike Stock (musician), doc=71506 score=7.430532 shardIndex=0
+Document: I've Got Two Legs, doc=163586 score=7.3544407 shardIndex=0
+ 
+Clue: 1922 Its the end of an empire This empire in fact After 600 years its goodbye this hello Turkish Republic
+Category: 1920s NEWS FLASH | Correct answer: Ottoman Empire
+Total Results: 6799+ hits
+Document: Mehmed VI, doc=15634 score=21.573248 shardIndex=0
+Document: Far Eastern Republic, doc=141667 score=21.470673 shardIndex=0
+Document: Christophor Araratov, doc=207582 score=20.205574 shardIndex=0
+Document: Van, Turkey, doc=17645 score=19.871424 shardIndex=0
+Document: Trabzon, doc=17028 score=19.732714 shardIndex=0
+Document: Italian Empire, doc=219571 score=19.49048 shardIndex=0
+Document: History of modern Greece, doc=37720 score=19.437881 shardIndex=0
+Document: Aftermath of World War I, doc=71585 score=19.110485 shardIndex=0
+Document: Mammad Amin Rasulzade, doc=137077 score=18.967705 shardIndex=0
+Document: Šabac, doc=54503 score=18.9451 shardIndex=0
+ 
+Clue: Crest toothpaste
+Category: NAME THE PARENT COMPANY | Correct answer: Procter & Gamble
+Total Results: 4823+ hits
+Document: Crest (toothpaste), doc=139727 score=13.746281 shardIndex=0
+Document: Toothpaste, doc=59774 score=11.00079 shardIndex=0
+Document: Air India (football club), doc=151227 score=9.258518 shardIndex=0
+Document: Procter & Gamble, doc=228904 score=9.02544 shardIndex=0
+Document: Crest Capital, doc=281350 score=7.49695 shardIndex=0
+Document: 186th Infantry Regiment (United States), doc=222915 score=7.4730973 shardIndex=0
+Document: Crested Shelduck, doc=131972 score=7.242619 shardIndex=0
+Document: Priory Vale, doc=103196 score=7.1215024 shardIndex=0
+Document: Royal Penguin, doc=137496 score=7.112724 shardIndex=0
+Document: Republican River, doc=54780 score=7.098776 shardIndex=0
+ 
+Clue: In 1888 this Chancellor told the Reichstag we Germans fear God but nothing else in the world
+Category: HISTORICAL QUOTES | Correct answer: Otto von Bismarck|Von Bismarck
+Total Results: 7003+ hits
+Document: Theobald von Bethmann-Hollweg, doc=54646 score=16.741228 shardIndex=0
+Document: Wilhelm II, German Emperor, doc=15800 score=16.738323 shardIndex=0
+Document: Enabling Act of 1933, doc=78258 score=15.35474 shardIndex=0
+Document: Otto von Bismarck, doc=13841 score=15.268868 shardIndex=0
+Document: Fritz Sauckel, doc=76829 score=14.997162 shardIndex=0
+Document: German idealism, doc=79037 score=14.854054 shardIndex=0
+Document: Heinrich Brüning, doc=79855 score=14.835033 shardIndex=0
+Document: Reichstag Fire Decree, doc=78186 score=14.650631 shardIndex=0
+Document: Conversations with God, doc=78073 score=14.098206 shardIndex=0
+Document: Fear and Trembling, doc=83364 score=14.024948 shardIndex=0
+ 
+Clue: In 1787 he signed his first published poem Axiologus axio is from the Greek for worth
+Category: POETS  POETRY | Correct answer: William Wordsworth
+Total Results: 2695+ hits
+Document: Agis of Argos, doc=207021 score=20.834194 shardIndex=0
+Document: Bliss Carman, doc=11425 score=20.724018 shardIndex=0
+Document: Friedrich Hölderlin, doc=54281 score=20.121107 shardIndex=0
+Document: Homer, doc=37447 score=20.01084 shardIndex=0
+Document: George Crabbe, doc=70314 score=19.94469 shardIndex=0
+Document: Jackson Mac Low, doc=138134 score=19.76425 shardIndex=0
+Document: Thomas Warton, doc=69747 score=19.751326 shardIndex=0
+Document: Luis Cernuda, doc=59179 score=19.714369 shardIndex=0
+Document: Ibycus, doc=39451 score=19.482916 shardIndex=0
+Document: Irish poetry, doc=142162 score=19.48215 shardIndex=0
+ 
+Clue: Not to be confused with karma krama is a popular accessory sold in cambodia the word means scarf in this national language of Cambodia
+Category: CAMBODIAN HISTORY  CULTURE | Correct answer: Khmer language
+Total Results: 3907+ hits
+Document: Politics of Cambodia, doc=2546 score=24.73129 shardIndex=0
+Document: History of Cambodia, doc=2543 score=24.149332 shardIndex=0
+Document: Khmer language, doc=2298 score=23.532942 shardIndex=0
+Document: Norodom Buppha Devi, doc=145613 score=22.40293 shardIndex=0
+Document: Siem Reap, doc=92723 score=21.343187 shardIndex=0
+Document: Economy of Cambodia, doc=2547 score=21.052116 shardIndex=0
+Document: Khmer Rouge, doc=292871 score=20.880545 shardIndex=0
+Document: Cambodia National and Provincial Resources Data Bank, doc=194795 score=20.421621 shardIndex=0
+Document: Reamker, doc=131070 score=19.114706 shardIndex=0
+Document: Ikat, doc=45752 score=18.903484 shardIndex=0
+ 
+Clue: Phnom Penhs notorious gridlock is circumvented by the nimble tuktuk a motorized taxi thats also known as an auto this a similar Asian conveyance
+Category: CAMBODIAN HISTORY  CULTURE | Correct answer: Rickshaw
+Total Results: 3478+ hits
+Document: Olympic Stadium (Phnom Penh), doc=118470 score=23.2426 shardIndex=0
+Document: Transport in Cambodia, doc=2549 score=21.953915 shardIndex=0
+Document: Norodom Buppha Devi, doc=145613 score=21.85091 shardIndex=0
+Document: Khmer Rouge, doc=292871 score=20.985836 shardIndex=0
+Document: Siem Reap, doc=92723 score=20.795586 shardIndex=0
+Document: History of Cambodia, doc=2543 score=20.571516 shardIndex=0
+Document: Khmer language, doc=2298 score=20.152357 shardIndex=0
+Document: Cycle rickshaw, doc=57007 score=19.674803 shardIndex=0
+Document: Economy of Cambodia, doc=2547 score=18.940405 shardIndex=0
+Document: Highways to a War, doc=213609 score=18.858973 shardIndex=0
+ 
+Clue: 1980 Rock With You
+Category: 80s NO1 HITMAKERS | Correct answer: Michael Jackson
+Total Results: 4543+ hits
+Document: Time to Burn (Giant album), doc=96097 score=9.262834 shardIndex=0
+Document: Rock Odyssey, doc=229250 score=9.019301 shardIndex=0
+Document: A Flock of Seagulls, doc=43528 score=8.968947 shardIndex=0
+Document: 80, doc=6965 score=8.337667 shardIndex=0
+Document: I Love the '80s Strikes Back, doc=97631 score=8.142189 shardIndex=0
+Document: Guy McDonough, doc=113224 score=8.106271 shardIndex=0
+Document: Cheryl Barnes, doc=182251 score=8.097851 shardIndex=0
+Document: Dwight Yoakam, doc=43222 score=8.054079 shardIndex=0
+Document: Rocky Burnette, doc=167343 score=7.9875402 shardIndex=0
+Document: WTMX, doc=121544 score=7.8955755 shardIndex=0
+ 
+Clue: The Pulitzerwinning The Making of the President 1960 covered this mans successful presidential campaign
+Category: NOTES FROM THE CAMPAIGN TRAIL | Correct answer: JFK|John F. Kennedy
+Total Results: 6612+ hits
+Document: Michael Dukakis, doc=10964 score=18.383215 shardIndex=0
+Document: Lloyd Bentsen, doc=86087 score=16.842253 shardIndex=0
+Document: Waxey Gordon, doc=36041 score=16.832636 shardIndex=0
+Document: Lyman J. Gage, doc=29653 score=16.648632 shardIndex=0
+Document: History of the United States (1945–64), doc=77191 score=16.1423 shardIndex=0
+Document: Democratic Leadership Council, doc=74039 score=16.12229 shardIndex=0
+Document: Wendell Willkie, doc=5753 score=16.016317 shardIndex=0
+Document: William Henry Harrison, doc=719 score=15.907778 shardIndex=0
+Document: Ralph Nader, doc=7384 score=15.871658 shardIndex=0
+Document: Joe Lockhart, doc=74202 score=15.858353 shardIndex=0
+ 
+Clue: In 1843 Isaac Dittenhoefer became the first pres of this Jewish club whose name means children of the covenant
+Category: SERVICE ORGANIZATIONS | Correct answer: B'nai B'rith
+Total Results: 10817+ hits
+Document: B'nai B'rith, doc=78515 score=19.50975 shardIndex=0
+Document: Jacob and Esau, doc=279333 score=16.323803 shardIndex=0
+Document: Jews as the chosen people, doc=64400 score=15.242382 shardIndex=0
+Document: Shekhinah, doc=19036 score=15.060896 shardIndex=0
+Document: Boston, MA, doc=64476 score=14.884504 shardIndex=0
+Document: Isaac K. Funk, doc=83700 score=14.407571 shardIndex=0
+Document: Emperor Go-Ichijō, doc=3811 score=14.158045 shardIndex=0
+Document: Kaddish, doc=279598 score=14.079788 shardIndex=0
+Document: Cave of the Patriarchs, doc=11146 score=14.078901 shardIndex=0
+Document: Lilith, doc=294163 score=14.077112 shardIndex=0
+ 
+Clue: Don Knotts took over from Norman Fell as the resident landlord on this sitcom
+Category: THE RESIDENTS | Correct answer: Three's Company
+Total Results: 8107+ hits
+Document: Don Knotts, doc=77399 score=22.30907 shardIndex=0
+Document: Three's Company, doc=80752 score=14.856895 shardIndex=0
+Document: San Pedro, Laguna, doc=28092 score=14.535723 shardIndex=0
+Document: Don Koharski, doc=145161 score=11.899117 shardIndex=0
+Document: Crinkle Crags, doc=136646 score=11.865766 shardIndex=0
+Document: Tim Conway, doc=77372 score=11.797628 shardIndex=0
+Document: Patterson Park (Neighborhood), Baltimore, doc=278220 score=11.781486 shardIndex=0
+Document: William de Beauchamp (1185), doc=223879 score=11.427746 shardIndex=0
+Document: John Ritter, doc=80697 score=11.416668 shardIndex=0
+Document: Social class in Ecuador, doc=245161 score=11.331265 shardIndex=0
+ 
+Clue: UN Res 242 supports secure and recognized boundaries for Israel  neighbors following this June 1967 war
+Category: OLD YEARS RESOLUTIONS | Correct answer: The Six Day War
+Total Results: 5875+ hits
+Document: Golan Heights, doc=152595 score=27.635736 shardIndex=0
+Document: Camp David Accords, doc=56120 score=23.843441 shardIndex=0
+Document: Annexation, doc=223274 score=23.22733 shardIndex=0
+Document: Israeli–Palestinian conflict, doc=36488 score=23.124533 shardIndex=0
+Document: West Bank, doc=626 score=22.457851 shardIndex=0
+Document: 1949 Armistice Agreements, doc=56010 score=22.237349 shardIndex=0
+Document: Israel and legitimacy, doc=290904 score=21.793127 shardIndex=0
+Document: United Nations Partition Plan for Palestine, doc=56008 score=21.647625 shardIndex=0
+Document: Presbyterian Church (USA) disinvestment from Israel controversy, doc=90735 score=21.514416 shardIndex=0
+Document: Politics of the Palestinian National Authority, doc=108680 score=21.245884 shardIndex=0
+ 
+Clue: This blonde beauty who reprised her role as Amanda on the new Melrose Place was a psychology major
+Category: UCLA CELEBRITY ALUMNI | Correct answer: Heather Locklear
+Total Results: 7453+ hits
+Document: Heather Locklear, doc=68557 score=26.652155 shardIndex=0
+Document: Melrose Place, doc=44221 score=21.397058 shardIndex=0
+Document: Grant Show, doc=138799 score=19.664974 shardIndex=0
+Document: Lisa Rinna, doc=44796 score=18.967648 shardIndex=0
+Document: Amy Lalonde, doc=142905 score=18.499136 shardIndex=0
+Document: Donna Vivino, doc=257185 score=18.206242 shardIndex=0
+Document: Legally Blonde (musical), doc=148628 score=17.272732 shardIndex=0
+Document: Pearl Eaton, doc=162077 score=16.187057 shardIndex=0
+Document: Walter Koenig, doc=71762 score=15.755445 shardIndex=0
+Document: Susan Egan, doc=86638 score=15.692585 shardIndex=0
+ 
+Clue: The name of this dish of marinated lamb skewered  grilled comes from the Greek for skewer  also starts with s
+Category: GREEK FOOD  DRINK | Correct answer: Souvlaki
+Total Results: 3801+ hits
+Document: Souvlaki, doc=66848 score=43.163494 shardIndex=0
+Document: Brazilian cuisine, doc=59830 score=25.274055 shardIndex=0
+Document: Awadhi cuisine, doc=222359 score=24.553339 shardIndex=0
+Document: Akçaabat meatballs, doc=285387 score=24.13348 shardIndex=0
+Document: Sicilian cuisine, doc=1497 score=22.985432 shardIndex=0
+Document: Serbian cuisine, doc=118416 score=22.508223 shardIndex=0
+Document: Lountza, doc=276523 score=22.317421 shardIndex=0
+Document: Tzatziki, doc=23118 score=21.928486 shardIndex=0
+Document: Jangan-gu, doc=106541 score=21.443771 shardIndex=0
+Document: Taste of the Danforth, doc=45658 score=20.920248 shardIndex=0
+ 
+Clue: Postit notes
+Category: NAME THE PARENT COMPANY | Correct answer: 3M
+Total Results: 9244+ hits
+Document: Holding company, doc=63212 score=7.7645674 shardIndex=0
+Document: Hal Film Maker, doc=116055 score=7.6225123 shardIndex=0
+Document: Harry Von Tilzer, doc=61046 score=7.0722494 shardIndex=0
+Document: Black Swan Records, doc=55895 score=7.0254564 shardIndex=0
+Document: MTX Audio, doc=231050 score=6.996752 shardIndex=0
+Document: US Airways Group, doc=121398 score=6.962798 shardIndex=0
+Document: Bank of China (Hong Kong), doc=136517 score=6.744998 shardIndex=0
+Document: Joss Garman, doc=201013 score=6.694284 shardIndex=0
+Document: Frog (models), doc=89426 score=6.510479 shardIndex=0
+Document: Sampo Group, doc=42202 score=6.484248 shardIndex=0
+ 
+Clue: In 2010 As Sherlock Holmes on film
+Category: GOLDEN GLOBE WINNERS | Correct answer: Robert Downey, Jr.
+Total Results: 2157+ hits
+Document: I. A. L. Diamond, doc=48427 score=18.912838 shardIndex=0
+Document: Hans Zimmer, doc=51867 score=16.713959 shardIndex=0
+Document: Sherlock Holmes, doc=9719 score=16.186401 shardIndex=0
+Document: Basil Rathbone, doc=18285 score=14.990444 shardIndex=0
+Document: Robert Downey, Jr., doc=43997 score=14.967875 shardIndex=0
+Document: Miranda Richardson, doc=9780 score=14.61525 shardIndex=0
+Document: Celeste Holm, doc=47368 score=14.469018 shardIndex=0
+Document: Irene Adler, doc=86765 score=14.264069 shardIndex=0
+Document: The Five Orange Pips, doc=129916 score=14.114586 shardIndex=0
+Document: Edward Hardwicke, doc=61302 score=14.107754 shardIndex=0
+ 

@@ -1,0 +1,41 @@
+Reranked possible answers based on knowledge:
+
+Category 1: HISTORICAL QUOTES
+Correct answer: Philippe Pétain
+Reranked possible answers: Hubert Lyautey, Anglo-French Supreme War Council, Free French Forces, Leopold III of Belgium, Polish contribution to World War II, Austrian Empire, Lorraine (duchy), Munich Agreement, Charles V of France
+
+Category 2: STATE OF THE ART MUSEUM
+Correct answer: Taft Museum of Art
+Reranked possible answers: Art museum, Michael Bierut, Agnes Martin, Devon Dikeou, Red Jacket, Anders Zorn, Louis Dubois (painter), Bhavacakra, Affandi
+
+Category 3: CEMETERIES
+Correct answer: Arlington National Cemetery
+Reranked possible answers: USS Arizona Memorial, Thomas W. Lawson (ship), Margate Surfboat, Frank Newcomb, USS Bonhomme Richard (LHD-6), Edwin M. Shepard, Panayis Athanase Vagliano, George Henry Preble, USCGC Mohawk (WPG-78)
+
+Category 4: GOLDEN GLOBE WINNERS
+Correct answer: Heath Ledger
+Reranked possible answers: Jimmy Harry, Joan Plowright, Miranda Richardson, Geoffrey Rush, Fred Astaire, Olympia Dukakis, Warren Beatty, Chaim Topol, Rita Blanco
+
+Category 5: HISTORICAL HODGEPODGE
+Correct answer: Iberian Peninsula
+Reranked possible answers: Vicente Genaro de Quesada, Godfrey Macdonald, Ferdinand VII of Spain, Napoleonic Wars, War of the Sixth Coalition, Battle of Roliça, Alexander Gordon (British cavalry officer), FitzRoy Somerset, Edward John Eliot
+
+Category 6: CONSERVATION
+Correct answer: Wolong Nature Preserve
+Reranked possible answers: Chengdu, Kawaii, Environmental movement, Monteverde Cloud Forest Reserve, International Union for Conservation of Nature, Sangihe tarsier, Xiang Xiang (giant panda), Academy of Natural Sciences of Drexel University, Environmental ethics
+
+Category 7: 80s NO1 HITMAKERS
+Correct answer: George Michael
+Reranked possible answers: 80, 1988, Schweizer SGS 1-24, Matt Jefferies, Marley Marl, Moscow Ballet (United States), Remo Brindisi, Brian Brown (musician), Skeletons (Stevie Wonder song)
+
+Category 8: AFRICAN AMERICAN WOMEN
+Correct answer: The Help
+Reranked possible answers: Illeana Douglas, Shirley MacLaine, Mommie Dearest, Sally Mann, Penny Marshall, Myrna Loy, Ellie Darcey-Alden, My Girl 2, Amy Tan
+
+Category 9: SERVICE ORGANIZATIONS
+Correct answer: Knights of Columbus
+Reranked possible answers: Studentenverbindung, Lambda Theta Phi, Thomas Wyatt Turner, K.A.V. Lovania Leuven, Omega Psi Phi, Cartellverband, St. Vincent de Paul Church (Manhattan), Josephite Fathers, Pi Alpha Phi
+
+Category 10: CONSERVATION
+Correct answer: World Wildlife Fund (WWF)
+Reranked possible answers: United States Fish and Wildlife Service, Maasai Mara, Falconry, Guadalajara Zoo, Itasca State Park, Lahore Zoo, Basal (phylogenetics)|basal, Kratié (town), Ferruginous Hawk, Tundi Spring Agardy
