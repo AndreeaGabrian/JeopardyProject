@@ -19,6 +19,7 @@ To run the retrieval part and see the result run *DataMiningTestIndexApplication
 and *results.txt* (contains the clue, category, correct answer and then the returned result = top 10 wiki title pages and the score)
 
 ### Files description
+- *TextToJson.py* : separate file for creating the json files from the wikipedia pages = *pages_final*
 - *DataMiningTestIndexApplication.java* : from here you run the project
 - *Indexer.java*: from here you run the lucene index (i.e create an index with lucene)
 - *WikiPageDTO.java*, *QuestionDTO.java*: entity classes for storing the content of wiki pages and questions
