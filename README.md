@@ -11,6 +11,7 @@ which:
 - second evaluation and error analysis
 
 ### How to run the project
+The code for the creation of the pages recieved as an input in the index creation is on the **process_wikipedia_pages** branch and is a python file. We worked with **python3.8**. In order for the program to work the path to the wikipedia files folder and the output json file path should be modified accordingly. 
 The final code is on **main** branch and is a java application. We worked with **java jdk-17**, **Maven 4.0.0**, and **Lucene 8.11**
 The java project was configured with Maven and all the dependencies are in **pom.xml** file. So, you need to run install for
 this file according to your ide (for example, in IntelliJ Idea in the maven panel you have buttons for clear and install). <br>
