@@ -74,5 +74,5 @@ def process_text_files(directory_path, output_json_prefix, max_file_size_kb=5000
     print(f"Processed {len(files)} files and saved results to {output_json_path}")
 
 input_directory = r"C:\Daniela\Master\An1\Data Mining\wiki-subset-20140602.tar"
-output_json_file = r"C:\Daniela\Master\An1\Data Mining\TextToJson\pages.json"
+output_json_file = r"C:\Daniela\Master\An1\Data Mining\TextToJson\pages_final\pages.json"
 process_text_files(input_directory, output_json_file)
