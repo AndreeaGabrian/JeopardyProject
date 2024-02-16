@@ -6,9 +6,9 @@ import org.apache.lucene.analysis.standard.StandardTokenizer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 
 
-public class QuerySpecialAnalyzer extends StopwordAnalyzerBase {
+public class CustomSpecialAnalyzer extends StopwordAnalyzerBase {
 
-    public QuerySpecialAnalyzer() {
+    public CustomSpecialAnalyzer() {
         super(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET);
     }
 
