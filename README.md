@@ -42,5 +42,10 @@ and *results.txt* (contains the clue, category, correct answer and then the retu
 
 ### Video
 
+### Indexes
+<br>
+Index with stop words remmoval and stemming: https://we.tl/t-oGSiHv3YUu
+<br>
+Index with stop words remmoval and lemmatization: https://we.tl/t-n2D3trXkby 
 
 
