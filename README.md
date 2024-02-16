@@ -1,4 +1,11 @@
 # JeopardyProject
+For creating an index of all wikipedia pages using SOLR we had to:
+	1. Create a core
+	2. Import data into the core (this is the moment where indexing happens)
+After the above steps we are given an "index" folder where all the data is stored.
+
+## 1. Creating a core
+=======
 This is a question answering project based on the Jeopardy game. The task is to
 implement a system which receive a clue (question) with a category and should
 return the correct answer. For this we implemented an information-retrieval system
@@ -30,13 +37,17 @@ and *results.txt* (contains the clue, category, correct answer and then the retu
 - index_lemmatization: the index with lucene
 
 ### Documentation
+Documentation link: https://docs.google.com/document/d/1-Ti7uZPA1M9CQSmWAvrQzTVwvtRHhcEAny-c3DtlAnE/edit
+<br>
 
 ### Presentation
 
 ### Video
 
-
-
-
+### Indexes
+<br>
+Index with stop words remmoval and stemming: https://we.tl/t-oGSiHv3YUu
+<br>
+Index with stop words remmoval and lemmatization: https://we.tl/t-n2D3trXkby 
 
 
