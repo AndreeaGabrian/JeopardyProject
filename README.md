@@ -37,6 +37,8 @@ and *results.txt* (contains the clue, category, correct answer and then the retu
 - index_lemmatization: the index with lucene
 
 ### Documentation
+Documentation link: https://docs.google.com/document/d/1-Ti7uZPA1M9CQSmWAvrQzTVwvtRHhcEAny-c3DtlAnE/edit
+<br>
 
 ### Presentation
 
