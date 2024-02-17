@@ -44,7 +44,11 @@ Documentation link: https://docs.google.com/document/d/1-Ti7uZPA1M9CQSmWAvrQzTVw
 
 ### Presentation
 
+PPT presentation for the entire project: https://ubbcluj-my.sharepoint.com/:p:/g/personal/iulia_filimon_stud_ubbcluj_ro/ER7eLoaxsiFEjOrkGDTC4eMBn2Hl7JP6BeIshw64oV5TtQ?e=hM9dcu
+
 ### Video
+
+Presentation video: https://www.youtube.com/watch?v=mZs8UJGRpKI
 
 ### Indexes
 <br>
