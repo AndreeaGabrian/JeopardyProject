@@ -26,7 +26,6 @@ public class DataMiningTestIndexApplication {
             // Path to the Lucene index directory
             String indexDir = "JeopardyProject/index/stemming"; //stemming
             // String indexDir = "JeopardyProject/index/lemming"; //lemming
-            //String indexDir = "src/main/resources/index"; //lemming
             // Open the index directory
             Directory directory = FSDirectory.open(Paths.get(indexDir));
             // Create an index reader
@@ -50,7 +49,6 @@ public class DataMiningTestIndexApplication {
 
             //Read the questions
             List<QuestionDTO> questionsList = readQuestions("JeopardyProject/src/main/java/com/example/data_mining_test_index/questions.txt");
-            // System.out.println("Number of questions: " + questionsList.size());
             results.println("Number of questions: " + questionsList.size() + "\n");
             int correct_1 = 0;
             int correct_3 = 0;
@@ -74,9 +72,6 @@ public class DataMiningTestIndexApplication {
                 results.println("Clue: " + question.textClue);
                 results.println("Category: " + question.category + " | Correct answer: " + question.correctAnswer);
                 results.println("Total Results: " + topDocs.totalHits);
-                // System.out.println("Clue: " + question.textClue);
-                // System.out.println("Category: " + question.category + " | Correct answer: " + question.correctAnswer);
-                // System.out.println("Total Results: " + topDocs.totalHits);
                 int counter = 0;
 
                 for (ScoreDoc scoreDoc : topDocs.scoreDocs) {
@@ -85,13 +80,9 @@ public class DataMiningTestIndexApplication {
                     Document doc = indexSearcher.doc(docId); // search for the doc with a given id
                     String result_answer = doc.get("title");
                     results.println("Document: " + result_answer + ", " + scoreDoc);
-                    // System.out.println("Document: " + result_answer + ",  " + scoreDoc);
-                    // if (counter == 0){
-                    // if (result_answer.equals(question.correctAnswer)){
                     if (question.correctAnswer.contains("|")){
                         String[] parts = question.correctAnswer.split("\\|");
                         if (result_answer.equals(parts[0]) || result_answer.equals(parts[1])){
-                            // System.out.println(result_answer.equalsIgnoreCase(question.correctAnswer));
                             if (counter < 1){
                                 question.answerTop1 = docId;
                                 correct_1++;
@@ -109,7 +100,6 @@ public class DataMiningTestIndexApplication {
                     }
                     else{
                         if (result_answer.equals(question.correctAnswer)){
-                            // System.out.println(result_answer.equalsIgnoreCase(question.correctAnswer));
                             if (counter < 1){
                                 question.answerTop1 = docId;
                                 correct_1++;
@@ -130,12 +120,10 @@ public class DataMiningTestIndexApplication {
 
                 }
                 results.println(" ");
-                // System.out.println(" ");
             }
             performance.println("Top 1 correct answers: " + correct_1);
             performance.println("Top 3 correct answers: " + correct_3);
             performance.println("Top 5 correct answers: " + correct_5);
-            // System.out.println("Top 1 correct answers: " + correct);
 
             // Close the index reader
             performance.close();
@@ -147,15 +135,3 @@ public class DataMiningTestIndexApplication {
     }
 
 }
-
-
-//-----------------------------------------------RESULTS-----------------------------------------
-//  Index stemming
-//- Standard Analyzer + lematizare pe intrebare : 21 corecte
-//- Standard Analyzer fara extra procesare pe intrebare: 11 corecte
-//- Custom Analyzer = stemming pe intrebare : 26 corecte
-//
-//  Index lemmatization
-//- Standard Analyzer + lematizare pe intrebare: 15 corecte
-//- Standard Analyser fara extra procesare pe intrebare: 16 corecte
-
